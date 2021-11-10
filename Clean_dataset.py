@@ -157,7 +157,7 @@ print('Detected languages : ' + df['language'].unique())
 
 # Keep only those in english
 df_ingredients_en = df[df['language'] == 'en']
-print("Loss : {(1 - (df_ingredients_en.shape[0] / df.shape[0])) * 100} %")
+print(f"Loss : {(1 - (df_ingredients_en.shape[0] / df.shape[0])) * 100} %")
 
 # Tokenize
 df_ingredients_en['ingredients_text_tokens'] = df_ingredients_en['ingredients_text'].apply(
