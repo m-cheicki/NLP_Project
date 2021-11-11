@@ -1,0 +1,3168 @@
+energy-kcal_100g
+	Label 0
+		Median = 364.0
+		Min = 0.372
+			Right Start Fruit & Fibre
+				Unnamed: 0 : 20416
+				product_name : Right Start Fruit & Fibre
+				quantity : 420 g
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breakfasts,en:cereals-and-their-products,en:breakfast-cereals,en:flakes,en:cereal-flakes,en:extruded-cereals,en:extruded-flakes,en:mixed-cereal-flakes
+				labels_tags : en:vegetarian
+				ingredients_text : cls (70%) (wht, roll oats, triticale, puff wht), sultanas (13%) (sultanas, vae oil), sugar, apricot flavour fruit flak (4%) (contains apricot purée (1%), humtant (glycol), acidity rulator (malic acid), gling agt (ptin), antioxidant (ascorc acid), natural flavour, natural colour (annatto)), barl malt extract, diary fie (oligofructose), salt, vitamins (thiamin, riflavin, niacin, folic acid), minal (iron), natural flavour.
+				additives_n : 5.0
+				additives_tags : en:e160b,en:e296,en:e300,en:e422,en:e440
+				nutriscore_score : 6.0
+				nutriscore_grade : c
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Breakfast cereals
+				ecoscore_score_fr : 43.0
+				ecoscore_grade_fr : c
+				main_category : en:mixed-cereal-flakes
+				energy-kcal_100g : 0.372
+				energy_100g : 1560.0
+				fat_100g : 1.7
+				saturated-fat_100g : 1.0
+				carbohydrates_100g : 74.9
+				sugars_100g : 25.5
+				fiber_100g : 7.6
+				proteins_100g : 9.3
+				salt_100g : 0.475
+				sodium_100g : 0.19
+				language : en
+				ingredients_text_tokens : ['cls', '%', 'wht', 'roll', 'oats', 'triticale', 'puff', 'wht', 'sultanas', '%', 'sultanas', 'vae', 'oil', 'sugar', 'apricot', 'flavour', 'fruit', 'flak', '%', 'contains', 'apricot', 'pur', 'e', '%', 'humtant', 'glycol', 'acidity', 'rulator', 'malic', 'acid', 'gling', 'agt', 'ptin', 'antioxidant', 'ascorc', 'acid', 'natural', 'flavour', 'natural', 'colour', 'annatto', 'barl', 'malt', 'extract', 'diary', 'fie', 'oligofructose', 'salt', 'vitamins', 'thiamin', 'riflavin', 'niacin', 'folic', 'acid', 'minal', 'iron', 'natural', 'flavour']
+		Max = 472.0
+			All brand wheat flakes
+				Unnamed: 0 : 18733
+				product_name : All brand wheat flakes
+				quantity : 330g
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breakfasts,en:cereals-and-their-products,en:breakfast-cereals
+				labels_tags : nan
+				ingredients_text : ingrits whole wht (52%), wht an (35%), sugar, riy malt tract, salt, minals (iron, zinc oxide), vitarnins (niacin, riflavin, vitamin b6, thiamin, folate). contains cereals containing gluten. may contain traces of peanuts and/or tree nuts.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 10.0
+				nutriscore_grade : c
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Breakfast cereals
+				ecoscore_score_fr : 40.0
+				ecoscore_grade_fr : c
+				main_category : en:breakfast-cereals
+				energy-kcal_100g : 472.0
+				energy_100g : 1440.0
+				fat_100g : 4.0
+				saturated-fat_100g : 1.0
+				carbohydrates_100g : 74.5
+				sugars_100g : 27.25
+				fiber_100g : 19.3
+				proteins_100g : 23.75
+				salt_100g : 1.25
+				sodium_100g : 0.5
+				language : en
+				ingredients_text_tokens : ['ingrits', 'whole', 'wht', '%', 'wht', 'an', '%', 'sugar', 'riy', 'malt', 'tract', 'salt', 'minals', 'iron', 'zinc', 'oxide', 'vitarnins', 'niacin', 'riflavin', 'vitamin', 'b', 'thiamin', 'folate', 'contains', 'cereals', 'containing', 'gluten', 'may', 'contain', 'traces', 'of', 'peanuts', 'and', 'or', 'tree', 'nuts']
+----------
+	Label 1
+		Median = 259.33
+		Min = 0.0
+			La Grande Baguette Classique
+				Unnamed: 0 : 14666
+				product_name : La Grande Baguette Classique
+				quantity : 220g
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads,en:baguettes
+				labels_tags : en:no-preservatives
+				ingredients_text : wht flour, wat, salt, dctivat dri yst, wht glut, flour trtmt agt : ascorc acid.
+				additives_n : 1.0
+				additives_tags : en:e300
+				nutriscore_score : 1.0
+				nutriscore_grade : b
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : 75.0
+				ecoscore_grade_fr : b
+				main_category : en:baguettes
+				energy-kcal_100g : 0.0
+				energy_100g : 1148.0
+				fat_100g : 0.9
+				saturated-fat_100g : 0.2
+				carbohydrates_100g : 55.0
+				sugars_100g : 0.6
+				fiber_100g : 3.4
+				proteins_100g : 8.9
+				salt_100g : 1.4
+				sodium_100g : 0.56
+				language : en
+				ingredients_text_tokens : ['wht', 'flour', 'wat', 'salt', 'dctivat', 'dri', 'yst', 'wht', 'glut', 'flour', 'trtmt', 'agt', 'ascorc', 'acid']
+		Max = 1055.0
+			Vollkorn Toast
+				Unnamed: 0 : 9910
+				product_name : Vollkorn Toast
+				quantity : 500 g
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads,en:toasts
+				labels_tags : nan
+				ingredients_text : _wzvollkornml_ (58%), wass, wzsautg (_wzml_, wass), _wzml_, rapsöl, zuck, he, säurulator natriumacate
+				additives_n : 1.0
+				additives_tags : en:e262
+				nutriscore_score : -2.0
+				nutriscore_grade : a
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : 76.0
+				ecoscore_grade_fr : b
+				main_category : en:toasts
+				energy-kcal_100g : 257.0
+				energy_100g : 1075.0
+				fat_100g : 4.5
+				saturated-fat_100g : 0.5
+				carbohydrates_100g : 42.0
+				sugars_100g : 3.0
+				fiber_100g : 6.5
+				proteins_100g : 8.8
+				salt_100g : 1.3
+				sodium_100g : 0.52
+				language : en
+				ingredients_text_tokens : ['wzvollkornml', '%', 'wass', 'wzsautg', 'wzml', 'wass', 'wzml', 'raps', 'l', 'zuck', 'he', 's', 'urulator', 'natriumacate']
+----------
+	Label 2
+		Median = 447.0
+		Min = 0.6119
+			Crunchy Peanut Butter
+				Unnamed: 0 : 5921
+				product_name : Crunchy Peanut Butter
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:legumes-and-their-products,en:fats,en:spreads,en:nuts-and-their-products,en:vegetable-fats,en:plant-based-spreads,en:oilseed-purees,en:legume-butters,en:nut-butters,en:peanut-butters
+				labels_tags : nan
+				ingredients_text : roast pnuts, sugar, contains 2% or ls of: molass, fully hydrogat va oils (rapd, cottonsd and soyan), and salt.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 11.0
+				nutriscore_grade : d
+				nova_group : 4.0
+				pnns_groups_1 : Fat and sauces
+				pnns_groups_2 : Fats
+				ecoscore_score_fr : 37.0
+				ecoscore_grade_fr : d
+				main_category : en:peanut-butters
+				energy-kcal_100g : 562.0
+				energy_100g : 2351.0
+				fat_100g : 46.88
+				saturated-fat_100g : 7.81
+				carbohydrates_100g : 28.12
+				sugars_100g : 12.5
+				fiber_100g : 6.2
+				proteins_100g : 21.88
+				salt_100g : 1.1725
+				sodium_100g : 0.469
+				language : en
+				ingredients_text_tokens : ['roast', 'pnuts', 'sugar', 'contains', '%', 'or', 'ls', 'of', 'molass', 'fully', 'hydrogat', 'va', 'oils', 'rapd', 'cottonsd', 'and', 'soyan', 'and', 'salt']
+		Max = 1081.0
+			White sourdough
+				Unnamed: 0 : 3235
+				product_name : White sourdough
+				quantity : 400g
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads
+				labels_tags : nan
+				ingredients_text : fortifi british wht flour (wht flour, calcium carnate, iron, niacin, thiamin), wat, s salt, rapd oil, tra virgin olive oil (0.5%), soya flour, rice flour, wht glut, fmt wht flour, flour trtmt agt: ascorc acid
+				additives_n : 1.0
+				additives_tags : en:e300
+				nutriscore_score : 11.0
+				nutriscore_grade : d
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:breads
+				energy-kcal_100g : 1081.0
+				energy_100g : 4523.0
+				fat_100g : 2.9
+				saturated-fat_100g : 0.4
+				carbohydrates_100g : 46.7
+				sugars_100g : 2.9
+				fiber_100g : 2.1
+				proteins_100g : 9.6
+				salt_100g : 0.68
+				sodium_100g : 0.272
+				language : en
+				ingredients_text_tokens : ['fortifi', 'british', 'wht', 'flour', 'wht', 'flour', 'calcium', 'carnate', 'iron', 'niacin', 'thiamin', 'wat', 's', 'salt', 'rapd', 'oil', 'tra', 'virgin', 'olive', 'oil', '%', 'soya', 'flour', 'rice', 'flour', 'wht', 'glut', 'fmt', 'wht', 'flour', 'flour', 'trtmt', 'agt', 'ascorc', 'acid']
+----------
+	Label 3
+		Median = 92.0
+		Min = 0.0
+			La fe, white beans
+				Unnamed: 0 : 49119
+				product_name : La fe, white beans
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:legumes-and-their-products,en:legumes,en:seeds,en:legume-seeds,en:pulses,en:common-beans,en:white-beans,en:vegetable-mixes
+				labels_tags : nan
+				ingredients_text : white ans.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : -10.0
+				nutriscore_grade : a
+				nova_group : 1.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Legumes
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:vegetable-mixes
+				energy-kcal_100g : 0.0
+				energy_100g : 0.0
+				fat_100g : 0.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 63.89
+				sugars_100g : 2.78
+				fiber_100g : 44.4
+				proteins_100g : 22.22
+				salt_100g : 0.1725
+				sodium_100g : 0.069
+				language : en
+				ingredients_text_tokens : ['white', 'ans']
+		Max = 1440.0
+			Oriental chicken noodles
+				Unnamed: 0 : 19446
+				product_name : Oriental chicken noodles
+				quantity : 70g
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products,en:dried-products,en:dried-products-to-be-rehydrated,en:noodles,en:instant-noodles
+				labels_tags : nan
+				ingredients_text : wht flour, vae oil (antioxidant (320)), salt, flavour hancs (621, 635), flavour, sugar, maltodtrin, soy sauce powd, h & spic, anticaking agt (551), onion, antioxidant (), dydrat carrot, ttur vae protn, dydrat onion.
+				additives_n : 5.0
+				additives_tags : en:e307b,en:e320,en:e551,en:e621,en:e635
+				nutriscore_score : nan
+				nutriscore_grade : nan
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:instant-noodles
+				energy-kcal_100g : 1440.0
+				energy_100g : 379.0
+				fat_100g : 18.60000038147
+				saturated-fat_100g : 8.0
+				carbohydrates_100g : 34.200000762939
+				sugars_100g : 2.7000000476837
+				fiber_100g : 0.7
+				proteins_100g : 1.2000000476837
+				salt_100g : 3.9749999046326
+				sodium_100g : 1.58999996185304
+				language : en
+				ingredients_text_tokens : ['wht', 'flour', 'vae', 'oil', 'antioxidant', 'salt', 'flavour', 'hancs', 'flavour', 'sugar', 'maltodtrin', 'soy', 'sauce', 'powd', 'h', 'spic', 'anticaking', 'agt', 'onion', 'antioxidant', 'dydrat', 'carrot', 'ttur', 'vae', 'protn', 'dydrat', 'onion']
+----------
+	Label 4
+		Median = 1651.5
+		Min = 1435.0
+			Muesli with Fruits
+				Unnamed: 0 : 43790
+				product_name : Muesli with Fruits
+				quantity : 500g
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breakfasts,en:cereals-and-their-products,en:breakfast-cereals,en:mueslis,en:cereals-with-fruits,en:mueslis-with-fruits
+				labels_tags : nan
+				ingredients_text : cl flak 77% (oat flak, wht flak, rye flak), mixture of dri and candi fruit 20% (raisins, nana (nana, sugar, coconut oil), papaya (papaya, sugar, sulphur dioxide) , pinpple (pinpple, sugar, acid: citric acid, sulphur dioxide), date(date, rice flour)), corn flak 3% (corn grits, sugar, salt, rl malt tract)
+				additives_n : 2.0
+				additives_tags : en:e220,en:e330
+				nutriscore_score : 9.0
+				nutriscore_grade : c
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Breakfast cereals
+				ecoscore_score_fr : 92.0
+				ecoscore_grade_fr : b
+				main_category : en:mueslis-with-fruits
+				energy-kcal_100g : 1435.0
+				energy_100g : 6004.0
+				fat_100g : 3.5
+				saturated-fat_100g : 0.5
+				carbohydrates_100g : 63.0
+				sugars_100g : 19.0
+				fiber_100g : 9.5
+				proteins_100g : 10.0
+				salt_100g : 0.00011938
+				sodium_100g : 4.7752e-05
+				language : en
+				ingredients_text_tokens : ['cl', 'flak', '%', 'oat', 'flak', 'wht', 'flak', 'rye', 'flak', 'mixture', 'of', 'dri', 'and', 'candi', 'fruit', '%', 'raisins', 'nana', 'nana', 'sugar', 'coconut', 'oil', 'papaya', 'papaya', 'sugar', 'sulphur', 'dioxide', 'pinpple', 'pinpple', 'sugar', 'acid', 'citric', 'acid', 'sulphur', 'dioxide', 'date', 'date', 'rice', 'flour', 'corn', 'flak', '%', 'corn', 'grits', 'sugar', 'salt', 'rl', 'malt', 'tract']
+		Max = 4000.0
+			Creamy Peanut Butter
+				Unnamed: 0 : 2696
+				product_name : Creamy Peanut Butter
+				quantity : nan
+				categories_tags : nan
+				labels_tags : nan
+				ingredients_text : roast pnuts, sugar, hydrogat vae oil, (cottonsd, soyan and rapd oil) to prt saration, salt.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : nan
+				nutriscore_grade : nan
+				nova_group : 4.0
+				pnns_groups_1 : unknown
+				pnns_groups_2 : unknown
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : nan
+				energy-kcal_100g : 594.0
+				energy_100g : 2485.0
+				fat_100g : 50.0
+				saturated-fat_100g : 9.38
+				carbohydrates_100g : 18.75
+				sugars_100g : 9.38
+				fiber_100g : 6.2
+				proteins_100g : 21.88
+				salt_100g : 1.19126
+				sodium_100g : 0.476504
+				language : en
+				ingredients_text_tokens : ['roast', 'pnuts', 'sugar', 'hydrogat', 'vae', 'oil', 'cottonsd', 'soyan', 'and', 'rapd', 'oil', 'to', 'prt', 'saration', 'salt']
+----------
+-------------------------------------------
+energy_100g
+	Label 0
+		Median = 1523.0
+		Min = 1303.0
+			Rasin brand
+				Unnamed: 0 : 27692
+				product_name : Rasin brand
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products
+				labels_tags : nan
+				ingredients_text : whole grain wht, raisins, wht an, sugar, wht flour, malt rl flour, salt. vitamins & minals: ruc iron, niacinamide (vitamin ), zinc oxide (zinc), vitamin a palmitate, pyridoxine hydrochloride (vitamin ), thiamin mononitrate (vitamin ), riflavin (vitamin ), folic acid, vitamin , vitamin d3.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 9.0
+				nutriscore_grade : c
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:cereals-and-their-products
+				energy-kcal_100g : 311.47540983607
+				energy_100g : 1303.0
+				fat_100g : 1.6393442622951
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 78.688524590164
+				sugars_100g : 32.786885245902
+				fiber_100g : 14.8
+				proteins_100g : 8.1967213114754
+				salt_100g : 0.98360655737705
+				sodium_100g : 0.39344262295082
+				language : en
+				ingredients_text_tokens : ['whole', 'grain', 'wht', 'raisins', 'wht', 'an', 'sugar', 'wht', 'flour', 'malt', 'rl', 'flour', 'salt', 'vitamins', 'minals', 'ruc', 'iron', 'niacinamide', 'vitamin', 'zinc', 'oxide', 'zinc', 'vitamin', 'a', 'palmitate', 'pyridoxine', 'hydrochloride', 'vitamin', 'thiamin', 'mononitrate', 'vitamin', 'riflavin', 'vitamin', 'folic', 'acid', 'vitamin', 'vitamin', 'd']
+		Max = 1736.0
+			Fiber & protein granola
+				Unnamed: 0 : 18482
+				product_name : Fiber & protein granola
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products
+				labels_tags : nan
+				ingredients_text : whole roll oats, soy flak, hon, pl-prs canola oil, swt dri cranrri (cranrri, sugar, sunflow oil), sunflow sds, soy grits, soy powd, flax sd ml, crisp rice (rice, sugar, salt, rl malt), natural vanilla flavor, cinnamon.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 6.0
+				nutriscore_grade : c
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:cereals-and-their-products
+				energy-kcal_100g : 415.0
+				energy_100g : 1736.0
+				fat_100g : 18.87
+				saturated-fat_100g : 1.89
+				carbohydrates_100g : 54.72
+				sugars_100g : 26.42
+				fiber_100g : 9.4
+				proteins_100g : 20.75
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['whole', 'roll', 'oats', 'soy', 'flak', 'hon', 'pl-prs', 'canola', 'oil', 'swt', 'dri', 'cranrri', 'cranrri', 'sugar', 'sunflow', 'oil', 'sunflow', 'sds', 'soy', 'grits', 'soy', 'powd', 'flax', 'sd', 'ml', 'crisp', 'rice', 'rice', 'sugar', 'salt', 'rl', 'malt', 'natural', 'vanilla', 'flavor', 'cinnamon']
+----------
+	Label 1
+		Median = 1085.0
+		Min = 693.0
+			Peanut Butter Crunchy
+				Unnamed: 0 : 6981
+				product_name : Peanut Butter Crunchy
+				quantity : 350g
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:legumes-and-their-products,en:spreads,en:nuts-and-their-products,en:plant-based-spreads,en:oilseed-purees,en:legume-butters,en:nut-butters,en:peanut-butters
+				labels_tags : en:with-sunflower-oil
+				ingredients_text : roast pnuts 89 %, dtrose, sunflow oil, hard palm fat, salt, durchschnittliche n wte je 100 g avage nutrition va p 100 g brnwt/engy ft/fat
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 22.0
+				nutriscore_grade : e
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Legumes
+				ecoscore_score_fr : 50.0
+				ecoscore_grade_fr : c
+				main_category : en:peanut-butters
+				energy-kcal_100g : 632.0
+				energy_100g : 2506.0
+				fat_100g : 50.0
+				saturated-fat_100g : 12.0
+				carbohydrates_100g : 19.0
+				sugars_100g : 14.0
+				fiber_100g : 6.4
+				proteins_100g : 25.0
+				salt_100g : 1.7
+				sodium_100g : 0.68
+				language : en
+				ingredients_text_tokens : ['roast', 'pnuts', '%', 'dtrose', 'sunflow', 'oil', 'hard', 'palm', 'fat', 'salt', 'durchschnittliche', 'n', 'wte', 'je', 'g', 'avage', 'nutrition', 'va', 'p', 'g', 'brnwt', 'engy', 'ft', 'fat']
+		Max = 1301.0
+			Raisin bran crunchy wheat flakes cereal with raisins, raisin bran
+				Unnamed: 0 : 6357
+				product_name : Raisin bran crunchy wheat flakes cereal with raisins, raisin bran
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products
+				labels_tags : nan
+				ingredients_text : whole grain wht, raisins, wht an, sugar, wht flour, malt rl flour, salt. vitamins and minals: ruc iron, niacinamide (vitamin ), zinc oxide (source of zinc), vitamin a palmitate, pyridoxine hydrochloride (vitamin ), thiamine mononitrate (vitamin ), riflavin (vitamin ) folic acid, vitamin , vitamin d3.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 9.0
+				nutriscore_grade : c
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:cereals-and-their-products
+				energy-kcal_100g : 311.0
+				energy_100g : 1301.0
+				fat_100g : 1.64
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 78.69
+				sugars_100g : 32.79
+				fiber_100g : 14.8
+				proteins_100g : 8.2
+				salt_100g : 0.9825
+				sodium_100g : 0.393
+				language : en
+				ingredients_text_tokens : ['whole', 'grain', 'wht', 'raisins', 'wht', 'an', 'sugar', 'wht', 'flour', 'malt', 'rl', 'flour', 'salt', 'vitamins', 'and', 'minals', 'ruc', 'iron', 'niacinamide', 'vitamin', 'zinc', 'oxide', 'source', 'of', 'zinc', 'vitamin', 'a', 'palmitate', 'pyridoxine', 'hydrochloride', 'vitamin', 'thiamine', 'mononitrate', 'vitamin', 'riflavin', 'vitamin', 'folic', 'acid', 'vitamin', 'vitamin', 'd']
+----------
+	Label 2
+		Median = 1870.0
+		Min = 1740.0
+			Cocoa puffs
+				Unnamed: 0 : 28490
+				product_name : Cocoa puffs
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breakfasts,en:cereals-and-their-products,en:breakfast-cereals
+				labels_tags : nan
+				ingredients_text : whole grain corn, sugar, corn ml, corn syrup, cocoa procs with alkali, canola oil, caram color, fructose, salt, rin's syrup, baking soda, natural flavor. vitamins and minals: tricalcium phosphate, calcium carnate, vitamin c (sodium ascorte), iron and zinc (minal nutrits), ab vitamin (niacinamide), vitamin be (pyridoxine hydrochloride), vitamin b, (thiamin mononitrate), vitamin a (palmitate), vitamin b2 (riflavin), a b vitamin (folic acid), vitamin b12, vitamin d3. 6. may contain wheat ingredients.
+				additives_n : 2.0
+				additives_tags : en:e150c,en:e500,en:e500ii
+				nutriscore_score : 10.0
+				nutriscore_grade : c
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Breakfast cereals
+				ecoscore_score_fr : 40.0
+				ecoscore_grade_fr : c
+				main_category : en:breakfast-cereals
+				energy-kcal_100g : 417.0
+				energy_100g : 1740.0
+				fat_100g : 5.56
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 83.3
+				sugars_100g : 33.3
+				fiber_100g : 5.56
+				proteins_100g : 5.56
+				salt_100g : 0.833
+				sodium_100g : 0.333
+				language : en
+				ingredients_text_tokens : ['whole', 'grain', 'corn', 'sugar', 'corn', 'ml', 'corn', 'syrup', 'cocoa', 'procs', 'with', 'alkali', 'canola', 'oil', 'caram', 'color', 'fructose', 'salt', "rin's", 'syrup', 'baking', 'soda', 'natural', 'flavor', 'vitamins', 'and', 'minals', 'tricalcium', 'phosphate', 'calcium', 'carnate', 'vitamin', 'c', 'sodium', 'ascorte', 'iron', 'and', 'zinc', 'minal', 'nutrits', 'ab', 'vitamin', 'niacinamide', 'vitamin', 'be', 'pyridoxine', 'hydrochloride', 'vitamin', 'b', 'thiamin', 'mononitrate', 'vitamin', 'a', 'palmitate', 'vitamin', 'b', 'riflavin', 'a', 'b', 'vitamin', 'folic', 'acid', 'vitamin', 'b', 'vitamin', 'd', 'may', 'contain', 'wheat', 'ingredients']
+		Max = 4523.0
+			White sourdough
+				Unnamed: 0 : 3235
+				product_name : White sourdough
+				quantity : 400g
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads
+				labels_tags : nan
+				ingredients_text : fortifi british wht flour (wht flour, calcium carnate, iron, niacin, thiamin), wat, s salt, rapd oil, tra virgin olive oil (0.5%), soya flour, rice flour, wht glut, fmt wht flour, flour trtmt agt: ascorc acid
+				additives_n : 1.0
+				additives_tags : en:e300
+				nutriscore_score : 11.0
+				nutriscore_grade : d
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:breads
+				energy-kcal_100g : 1081.0
+				energy_100g : 4523.0
+				fat_100g : 2.9
+				saturated-fat_100g : 0.4
+				carbohydrates_100g : 46.7
+				sugars_100g : 2.9
+				fiber_100g : 2.1
+				proteins_100g : 9.6
+				salt_100g : 0.68
+				sodium_100g : 0.272
+				language : en
+				ingredients_text_tokens : ['fortifi', 'british', 'wht', 'flour', 'wht', 'flour', 'calcium', 'carnate', 'iron', 'niacin', 'thiamin', 'wat', 's', 'salt', 'rapd', 'oil', 'tra', 'virgin', 'olive', 'oil', '%', 'soya', 'flour', 'rice', 'flour', 'wht', 'glut', 'fmt', 'wht', 'flour', 'flour', 'trtmt', 'agt', 'ascorc', 'acid']
+----------
+	Label 3
+		Median = 385.0
+		Min = 0.0
+			La fe, white beans
+				Unnamed: 0 : 49119
+				product_name : La fe, white beans
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:legumes-and-their-products,en:legumes,en:seeds,en:legume-seeds,en:pulses,en:common-beans,en:white-beans,en:vegetable-mixes
+				labels_tags : nan
+				ingredients_text : white ans.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : -10.0
+				nutriscore_grade : a
+				nova_group : 1.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Legumes
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:vegetable-mixes
+				energy-kcal_100g : 0.0
+				energy_100g : 0.0
+				fat_100g : 0.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 63.89
+				sugars_100g : 2.78
+				fiber_100g : 44.4
+				proteins_100g : 22.22
+				salt_100g : 0.1725
+				sodium_100g : 0.069
+				language : en
+				ingredients_text_tokens : ['white', 'ans']
+		Max = 753.0
+			Ravioli cauliflower, red onion & peas artisan pasta
+				Unnamed: 0 : 3309
+				product_name : Ravioli cauliflower, red onion & peas artisan pasta
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products,en:pastas
+				labels_tags : nan
+				ingredients_text : filling: cauliflow, onion, ricotta chse (milk, wh, crm, vinar, salt, staliz [guar gum, xanthan gum, locust an gum]), dcrum (wht flour, sugar, yst, salt), asiago chse (pastriz cows milk, chse culture, salt, zym), ps, canola oil, parman chse (pastriz cows milk, chse culture, salt, zym), salt, parman flavor (parman and granular chse [pastriz milk, chse culture, salt, zym], salt, yst tract, tt, corn oil, olive oil, swt cre solids, sugar, natural flavor, onion powd, garlic powd), parsl, gs, mozzarla chse (pastriz cows milk, chse culture, salt, zym), ack pp. pasta: wht flour, wat, gs, ta-carote.
+				additives_n : 4.0
+				additives_tags : en:e160a,en:e160ai,en:e410,en:e412,en:e415
+				nutriscore_score : -1.0
+				nutriscore_grade : a
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:pastas
+				energy-kcal_100g : 180.0
+				energy_100g : 753.0
+				fat_100g : 4.5
+				saturated-fat_100g : 1.5
+				carbohydrates_100g : 29.0
+				sugars_100g : 1.0
+				fiber_100g : 1.0
+				proteins_100g : 9.0
+				salt_100g : 0.575
+				sodium_100g : 0.23
+				language : en
+				ingredients_text_tokens : ['filling', 'cauliflow', 'onion', 'ricotta', 'chse', 'milk', 'wh', 'crm', 'vinar', 'salt', 'staliz', 'guar', 'gum', 'xanthan', 'gum', 'locust', 'an', 'gum', 'dcrum', 'wht', 'flour', 'sugar', 'yst', 'salt', 'asiago', 'chse', 'pastriz', 'cows', 'milk', 'chse', 'culture', 'salt', 'zym', 'ps', 'canola', 'oil', 'parman', 'chse', 'pastriz', 'cows', 'milk', 'chse', 'culture', 'salt', 'zym', 'salt', 'parman', 'flavor', 'parman', 'and', 'granular', 'chse', 'pastriz', 'milk', 'chse', 'culture', 'salt', 'zym', 'salt', 'yst', 'tract', 'tt', 'corn', 'oil', 'olive', 'oil', 'swt', 'cre', 'solids', 'sugar', 'natural', 'flavor', 'onion', 'powd', 'garlic', 'powd', 'parsl', 'gs', 'mozzarla', 'chse', 'pastriz', 'cows', 'milk', 'chse', 'culture', 'salt', 'zym', 'ack', 'pp', 'pasta', 'wht', 'flour', 'wat', 'gs', 'ta-carote']
+----------
+	Label 4
+		Median = 6910.0
+		Min = 6004.0
+			Muesli with Fruits
+				Unnamed: 0 : 43790
+				product_name : Muesli with Fruits
+				quantity : 500g
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breakfasts,en:cereals-and-their-products,en:breakfast-cereals,en:mueslis,en:cereals-with-fruits,en:mueslis-with-fruits
+				labels_tags : nan
+				ingredients_text : cl flak 77% (oat flak, wht flak, rye flak), mixture of dri and candi fruit 20% (raisins, nana (nana, sugar, coconut oil), papaya (papaya, sugar, sulphur dioxide) , pinpple (pinpple, sugar, acid: citric acid, sulphur dioxide), date(date, rice flour)), corn flak 3% (corn grits, sugar, salt, rl malt tract)
+				additives_n : 2.0
+				additives_tags : en:e220,en:e330
+				nutriscore_score : 9.0
+				nutriscore_grade : c
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Breakfast cereals
+				ecoscore_score_fr : 92.0
+				ecoscore_grade_fr : b
+				main_category : en:mueslis-with-fruits
+				energy-kcal_100g : 1435.0
+				energy_100g : 6004.0
+				fat_100g : 3.5
+				saturated-fat_100g : 0.5
+				carbohydrates_100g : 63.0
+				sugars_100g : 19.0
+				fiber_100g : 9.5
+				proteins_100g : 10.0
+				salt_100g : 0.00011938
+				sodium_100g : 4.7752e-05
+				language : en
+				ingredients_text_tokens : ['cl', 'flak', '%', 'oat', 'flak', 'wht', 'flak', 'rye', 'flak', 'mixture', 'of', 'dri', 'and', 'candi', 'fruit', '%', 'raisins', 'nana', 'nana', 'sugar', 'coconut', 'oil', 'papaya', 'papaya', 'sugar', 'sulphur', 'dioxide', 'pinpple', 'pinpple', 'sugar', 'acid', 'citric', 'acid', 'sulphur', 'dioxide', 'date', 'date', 'rice', 'flour', 'corn', 'flak', '%', 'corn', 'grits', 'sugar', 'salt', 'rl', 'malt', 'tract']
+		Max = 16700.0
+			Creamy Peanut Butter
+				Unnamed: 0 : 2696
+				product_name : Creamy Peanut Butter
+				quantity : nan
+				categories_tags : nan
+				labels_tags : nan
+				ingredients_text : roast pnuts, sugar, hydrogat vae oil, (cottonsd, soyan and rapd oil) to prt saration, salt.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : nan
+				nutriscore_grade : nan
+				nova_group : 4.0
+				pnns_groups_1 : unknown
+				pnns_groups_2 : unknown
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : nan
+				energy-kcal_100g : 594.0
+				energy_100g : 2485.0
+				fat_100g : 50.0
+				saturated-fat_100g : 9.38
+				carbohydrates_100g : 18.75
+				sugars_100g : 9.38
+				fiber_100g : 6.2
+				proteins_100g : 21.88
+				salt_100g : 1.19126
+				sodium_100g : 0.476504
+				language : en
+				ingredients_text_tokens : ['roast', 'pnuts', 'sugar', 'hydrogat', 'vae', 'oil', 'cottonsd', 'soyan', 'and', 'rapd', 'oil', 'to', 'prt', 'saration', 'salt']
+----------
+-------------------------------------------
+fat_100g
+	Label 0
+		Median = 2.63
+		Min = 0.0
+			Creamy wheat cereal
+				Unnamed: 0 : 1444
+				product_name : Creamy wheat cereal
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products
+				labels_tags : nan
+				ingredients_text : wht.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : -3.0
+				nutriscore_grade : a
+				nova_group : 1.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:cereals-and-their-products
+				energy-kcal_100g : 360.0
+				energy_100g : 1506.0
+				fat_100g : 0.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 78.0
+				sugars_100g : 0.0
+				fiber_100g : 2.0
+				proteins_100g : 12.0
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['wht']
+		Max = 32.14
+			Handmade Granola
+				Unnamed: 0 : 28101
+				product_name : Handmade Granola
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products
+				labels_tags : nan
+				ingredients_text : oats, tt, own sugar, hon, sunflow sds, same sds, almonds, pans, coconut, vanilla, salt.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 12.0
+				nutriscore_grade : d
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:cereals-and-their-products
+				energy-kcal_100g : 393.0
+				energy_100g : 1644.0
+				fat_100g : 32.14
+				saturated-fat_100g : 8.93
+				carbohydrates_100g : 28.57
+				sugars_100g : 17.86
+				fiber_100g : 3.6
+				proteins_100g : 7.14
+				salt_100g : 0.09
+				sodium_100g : 0.036
+				language : en
+				ingredients_text_tokens : ['oats', 'tt', 'own', 'sugar', 'hon', 'sunflow', 'sds', 'same', 'sds', 'almonds', 'pans', 'coconut', 'vanilla', 'salt']
+----------
+	Label 1
+		Median = 3.33
+		Min = 0.0
+			Roasted garlic artisan bread
+				Unnamed: 0 : 6843
+				product_name : Roasted garlic artisan bread
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads
+				labels_tags : nan
+				ingredients_text : organic wht flour, wat, contains 2% or ls of: s salt, organic roast garlic, cultur organic unch wht flour,yst.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 2.0
+				nutriscore_grade : b
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:breads
+				energy-kcal_100g : 246.0
+				energy_100g : 1029.0
+				fat_100g : 0.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 50.88
+				sugars_100g : 1.75
+				fiber_100g : 1.8
+				proteins_100g : 8.77
+				salt_100g : 1.315
+				sodium_100g : 0.526
+				language : en
+				ingredients_text_tokens : ['organic', 'wht', 'flour', 'wat', 'contains', '%', 'or', 'ls', 'of', 's', 'salt', 'organic', 'roast', 'garlic', 'cultur', 'organic', 'unch', 'wht', 'flour', 'yst']
+		Max = 55.6
+			Peanut Butter Crunchy
+				Unnamed: 0 : 6981
+				product_name : Peanut Butter Crunchy
+				quantity : 350g
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:legumes-and-their-products,en:spreads,en:nuts-and-their-products,en:plant-based-spreads,en:oilseed-purees,en:legume-butters,en:nut-butters,en:peanut-butters
+				labels_tags : en:with-sunflower-oil
+				ingredients_text : roast pnuts 89 %, dtrose, sunflow oil, hard palm fat, salt, durchschnittliche n wte je 100 g avage nutrition va p 100 g brnwt/engy ft/fat
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 22.0
+				nutriscore_grade : e
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Legumes
+				ecoscore_score_fr : 50.0
+				ecoscore_grade_fr : c
+				main_category : en:peanut-butters
+				energy-kcal_100g : 632.0
+				energy_100g : 2506.0
+				fat_100g : 50.0
+				saturated-fat_100g : 12.0
+				carbohydrates_100g : 19.0
+				sugars_100g : 14.0
+				fiber_100g : 6.4
+				proteins_100g : 25.0
+				salt_100g : 1.7
+				sodium_100g : 0.68
+				language : en
+				ingredients_text_tokens : ['roast', 'pnuts', '%', 'dtrose', 'sunflow', 'oil', 'hard', 'palm', 'fat', 'salt', 'durchschnittliche', 'n', 'wte', 'je', 'g', 'avage', 'nutrition', 'va', 'p', 'g', 'brnwt', 'engy', 'ft', 'fat']
+----------
+	Label 2
+		Median = 17.86
+		Min = 0.0
+			Minnesota quick cooking wild rice
+				Unnamed: 0 : 32460
+				product_name : Minnesota quick cooking wild rice
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:seeds,en:cereals-and-their-products,en:cereal-grains,en:rices
+				labels_tags : nan
+				ingredients_text : 100% minnota cultivat wild rice
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : -3.0
+				nutriscore_grade : a
+				nova_group : nan
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : 54.0
+				ecoscore_grade_fr : c
+				main_category : en:rices
+				energy-kcal_100g : 567.0
+				energy_100g : 2372.0
+				fat_100g : 0.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 83.33
+				sugars_100g : 0.0
+				fiber_100g : 6.7
+				proteins_100g : 20.0
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['%', 'minnota', 'cultivat', 'wild', 'rice']
+		Max = 93.33
+			Signature kitchens, corn oil
+				Unnamed: 0 : 44067
+				product_name : Signature kitchens, corn oil
+				quantity : 1 gallon (12.8 FL OZ) 3.78 L
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:fats,en:cereals-and-their-products,en:vegetable-fats,en:vegetable-oils,en:cereal-oils,en:corn-oils,en:oils
+				labels_tags : en:kosher,en:orthodox-union-kosher
+				ingredients_text : corn oil.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 10.0
+				nutriscore_grade : c
+				nova_group : 2.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : 34.0
+				ecoscore_grade_fr : d
+				main_category : en:oils
+				energy-kcal_100g : 800.0
+				energy_100g : 3347.0
+				fat_100g : 93.33
+				saturated-fat_100g : 13.33
+				carbohydrates_100g : 0.0
+				sugars_100g : 0.0
+				fiber_100g : 0.0
+				proteins_100g : 0.0
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['corn', 'oil']
+----------
+	Label 3
+		Median = 0.77
+		Min = 0.0
+			Black Beans
+				Unnamed: 0 : 4462
+				product_name : Black Beans
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:legumes-and-their-products,en:canned-foods,en:legumes,en:seeds,en:canned-plant-based-foods,en:legume-seeds,en:pulses,en:common-beans,en:canned-legumes,en:black-beans,en:canned-common-beans
+				labels_tags : nan
+				ingredients_text : black ans, wat, salt.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : -4.0
+				nutriscore_grade : a
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Legumes
+				ecoscore_score_fr : 59.0
+				ecoscore_grade_fr : c
+				main_category : en:canned-common-beans
+				energy-kcal_100g : 88.0
+				energy_100g : 368.0
+				fat_100g : 0.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 16.0
+				sugars_100g : 1.6
+				fiber_100g : 6.4
+				proteins_100g : 5.6
+				salt_100g : 0.86
+				sodium_100g : 0.344
+				language : en
+				ingredients_text_tokens : ['black', 'ans', 'wat', 'salt']
+		Max = 30.0
+			Nature Valley Peanut Butter Chocolate Granola Bites
+				Unnamed: 0 : 28291
+				product_name : Nature Valley Peanut Butter Chocolate Granola Bites
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products
+				labels_tags : nan
+				ingredients_text : whole grain oats, sugar, pnut tt (pnuts), palm and palm kn oil, nonfat dry milk, cocoa, natural flavor, salt.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 16.0
+				nutriscore_grade : d
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:cereals-and-their-products
+				energy-kcal_100g : 160.0
+				energy_100g : 669.0
+				fat_100g : 30.0
+				saturated-fat_100g : 15.0
+				carbohydrates_100g : 53.33
+				sugars_100g : 30.0
+				fiber_100g : 6.7
+				proteins_100g : 10.0
+				salt_100g : 0.9175
+				sodium_100g : 0.367
+				language : en
+				ingredients_text_tokens : ['whole', 'grain', 'oats', 'sugar', 'pnut', 'tt', 'pnuts', 'palm', 'and', 'palm', 'kn', 'oil', 'nonfat', 'dry', 'milk', 'cocoa', 'natural', 'flavor', 'salt']
+----------
+	Label 4
+		Median = 11.45
+		Min = 1.0
+			Ryvita dark rye
+				Unnamed: 0 : 20385
+				product_name : Ryvita dark rye
+				quantity : 1
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads,en:toasts
+				labels_tags : nan
+				ingredients_text : ingredients rye flour salt. made with  of rye flour p  of product. allergy advice: for allgs, induding cls containing glut, s ingrits in bold. may also contain: oats(glut), wht (glut), same sds, soya
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 8.0
+				nutriscore_grade : c
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : 92.0
+				ecoscore_grade_fr : b
+				main_category : en:toasts
+				energy-kcal_100g : 1444.0
+				energy_100g : 6042.0
+				fat_100g : 1.0
+				saturated-fat_100g : 0.2
+				carbohydrates_100g : 63.6
+				sugars_100g : 3.0
+				fiber_100g : 15.2
+				proteins_100g : 8.5
+				salt_100g : 0.74
+				sodium_100g : 0.296
+				language : en
+				ingredients_text_tokens : ['ingredients', 'rye', 'flour', 'salt', 'made', 'with', 'of', 'rye', 'flour', 'p', 'of', 'product', 'allergy', 'advice', 'for', 'allgs', 'induding', 'cls', 'containing', 'glut', 's', 'ingrits', 'in', 'bold', 'may', 'also', 'contain', 'oats', 'glut', 'wht', 'glut', 'same', 'sds', 'soya']
+		Max = 320.0
+			Creamy Peanut Butter
+				Unnamed: 0 : 2696
+				product_name : Creamy Peanut Butter
+				quantity : nan
+				categories_tags : nan
+				labels_tags : nan
+				ingredients_text : roast pnuts, sugar, hydrogat vae oil, (cottonsd, soyan and rapd oil) to prt saration, salt.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : nan
+				nutriscore_grade : nan
+				nova_group : 4.0
+				pnns_groups_1 : unknown
+				pnns_groups_2 : unknown
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : nan
+				energy-kcal_100g : 594.0
+				energy_100g : 2485.0
+				fat_100g : 50.0
+				saturated-fat_100g : 9.38
+				carbohydrates_100g : 18.75
+				sugars_100g : 9.38
+				fiber_100g : 6.2
+				proteins_100g : 21.88
+				salt_100g : 1.19126
+				sodium_100g : 0.476504
+				language : en
+				ingredients_text_tokens : ['roast', 'pnuts', 'sugar', 'hydrogat', 'vae', 'oil', 'cottonsd', 'soyan', 'and', 'rapd', 'oil', 'to', 'prt', 'saration', 'salt']
+----------
+-------------------------------------------
+saturated-fat_100g
+	Label 0
+		Median = 0.0
+		Min = 0.0
+			Sliced Plain Bagel
+				Unnamed: 0 : 527
+				product_name : Sliced Plain Bagel
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads,en:special-breads,en:bagel-breads
+				labels_tags : nan
+				ingredients_text : unch rich flour (wht flour, rl malt flour, niacin, ruc iron, thiamin mononitrate, riflavin, folic acid), wat, sugar, contains 2% or ls of: wht glut, wht flour, salt, yst, distill vinar, cultur corn syrup solids, cul
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 3.0
+				nutriscore_grade : c
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : 74.0
+				ecoscore_grade_fr : b
+				main_category : en:bagel-breads
+				energy-kcal_100g : 365.0
+				energy_100g : 1527.0
+				fat_100g : 1.18
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 71.76
+				sugars_100g : 4.71
+				fiber_100g : 2.4
+				proteins_100g : 12.94
+				salt_100g : 1.19634
+				sodium_100g : 0.478536
+				language : en
+				ingredients_text_tokens : ['unch', 'rich', 'flour', 'wht', 'flour', 'rl', 'malt', 'flour', 'niacin', 'ruc', 'iron', 'thiamin', 'mononitrate', 'riflavin', 'folic', 'acid', 'wat', 'sugar', 'contains', '%', 'or', 'ls', 'of', 'wht', 'glut', 'wht', 'flour', 'salt', 'yst', 'distill', 'vinar', 'cultur', 'corn', 'syrup', 'solids', 'cul']
+		Max = 17.86
+			Cherry Almond Granola
+				Unnamed: 0 : 48609
+				product_name : Cherry Almond Granola
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products
+				labels_tags : nan
+				ingredients_text : oats, hon, canola oil, natural chry flavor (sugar, wat, alcohol, natural flavors, citric acid), chri (r tart pitt chri, sugar, sunflow oil), almonds, coconut and cinnamon.
+				additives_n : 1.0
+				additives_tags : en:e330
+				nutriscore_score : 12.0
+				nutriscore_grade : d
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:cereals-and-their-products
+				energy-kcal_100g : 393.0
+				energy_100g : 1644.0
+				fat_100g : 16.07
+				saturated-fat_100g : 17.86
+				carbohydrates_100g : 60.71
+				sugars_100g : 17.86
+				fiber_100g : 7.1
+				proteins_100g : 10.71
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['oats', 'hon', 'canola', 'oil', 'natural', 'chry', 'flavor', 'sugar', 'wat', 'alcohol', 'natural', 'flavors', 'citric', 'acid', 'chri', 'r', 'tart', 'pitt', 'chri', 'sugar', 'sunflow', 'oil', 'almonds', 'coconut', 'and', 'cinnamon']
+----------
+	Label 1
+		Median = 0.0
+		Min = 0.0
+			German fine bread
+				Unnamed: 0 : 828
+				product_name : German fine bread
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads
+				labels_tags : nan
+				ingredients_text : rye flour, wat, whole wht flour, an flour, malt, molass, rye ml, caraway sds, salt, yst.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 6.0
+				nutriscore_grade : c
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:breads
+				energy-kcal_100g : 263.0
+				energy_100g : 1100.0
+				fat_100g : 3.51
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 52.63
+				sugars_100g : 8.77
+				fiber_100g : 7.0
+				proteins_100g : 7.02
+				salt_100g : 1.71
+				sodium_100g : 0.684
+				language : en
+				ingredients_text_tokens : ['rye', 'flour', 'wat', 'whole', 'wht', 'flour', 'an', 'flour', 'malt', 'molass', 'rye', 'ml', 'caraway', 'sds', 'salt', 'yst']
+		Max = 17.86
+			Crema mexicana
+				Unnamed: 0 : 14012
+				product_name : Crema mexicana
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products
+				labels_tags : nan
+				ingredients_text : wat, hydrogat palm kn oil, crm, nonfat milk solids, modifi corn starch, salt, sodium phosphate, locust an gum, carragnan, mono & diglycid, gatin, polysorte 80, potassium sorte, natural cultur and annatto (for color).
+				additives_n : 7.0
+				additives_tags : en:e160b,en:e202,en:e407,en:e410,en:e428,en:e433,en:e471
+				nutriscore_score : 14.0
+				nutriscore_grade : d
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:cereals-and-their-products
+				energy-kcal_100g : 193.0
+				energy_100g : 808.0
+				fat_100g : 17.86
+				saturated-fat_100g : 17.86
+				carbohydrates_100g : 7.14
+				sugars_100g : 3.57
+				fiber_100g : 3.6
+				proteins_100g : 3.57
+				salt_100g : 1.1525
+				sodium_100g : 0.461
+				language : en
+				ingredients_text_tokens : ['wat', 'hydrogat', 'palm', 'kn', 'oil', 'crm', 'nonfat', 'milk', 'solids', 'modifi', 'corn', 'starch', 'salt', 'sodium', 'phosphate', 'locust', 'an', 'gum', 'carragnan', 'mono', 'diglycid', 'gatin', 'polysorte', 'potassium', 'sorte', 'natural', 'cultur', 'and', 'annatto', 'for', 'color']
+----------
+	Label 2
+		Median = 3.57
+		Min = 0.0
+			Cheese & Garlic Croutons
+				Unnamed: 0 : 7086
+				product_name : Cheese & Garlic Croutons
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads
+				labels_tags : nan
+				ingredients_text : enrich flour (wht flour, rl malt, niacian, ruc iron, thiamin mononitrate, riflavin, folic acid), partially hydrogat soyan oil, high fructose corn syrup, dydrat chdar, parman and romano chse (wh,ttmilk [pastriz cultur milk, zym],ruc lactose wh, maltodtrin, sodium phosphate, milk, crm, cultur, sodium sasnate, citric acid, lactic acid), salt, yst. contains 2% or ls of wht glaut, nonfat dry milk, onion, garlic,parsl, calcium propionate (prvative), dough conditions (may contain one or more of the following: sodium stroyl lactylate, calciumstroyl lactylate, calcium poxide, calcium sulfate, ammonium sulfate, calcium iodate, ascorc acid), natural flavors, paprika, chiv, vinar, tq (to prve frhns).
+				additives_n : 9.0
+				additives_tags : en:e270,en:e282,en:e300,en:e319,en:e330,en:e516,en:e517,en:e916,en:e930
+				nutriscore_score : 15.0
+				nutriscore_grade : d
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:breads
+				energy-kcal_100g : 429.0
+				energy_100g : 1795.0
+				fat_100g : 14.29
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 71.43
+				sugars_100g : 0.0
+				fiber_100g : 0.0
+				proteins_100g : 14.29
+				salt_100g : 3.215
+				sodium_100g : 1.286
+				language : en
+				ingredients_text_tokens : ['enrich', 'flour', 'wht', 'flour', 'rl', 'malt', 'niacian', 'ruc', 'iron', 'thiamin', 'mononitrate', 'riflavin', 'folic', 'acid', 'partially', 'hydrogat', 'soyan', 'oil', 'high', 'fructose', 'corn', 'syrup', 'dydrat', 'chdar', 'parman', 'and', 'romano', 'chse', 'wh', 'ttmilk', 'pastriz', 'cultur', 'milk', 'zym', 'ruc', 'lactose', 'wh', 'maltodtrin', 'sodium', 'phosphate', 'milk', 'crm', 'cultur', 'sodium', 'sasnate', 'citric', 'acid', 'lactic', 'acid', 'salt', 'yst', 'contains', '%', 'or', 'ls', 'of', 'wht', 'glaut', 'nonfat', 'dry', 'milk', 'onion', 'garlic', 'parsl', 'calcium', 'propionate', 'prvative', 'dough', 'conditions', 'may', 'contain', 'one', 'or', 'more', 'of', 'the', 'following', 'sodium', 'stroyl', 'lactylate', 'calciumstroyl', 'lactylate', 'calcium', 'poxide', 'calcium', 'sulfate', 'ammonium', 'sulfate', 'calcium', 'iodate', 'ascorc', 'acid', 'natural', 'flavors', 'paprika', 'chiv', 'vinar', 'tq', 'to', 'prve', 'frhns']
+		Max = 57.0
+			Chilli Jam
+				Unnamed: 0 : 46659
+				product_name : Chilli Jam
+				quantity : 750 g
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breakfasts,en:cereals-and-their-products,en:breakfast-cereals,en:mueslis,en:cereals-with-fruits,en:mueslis-with-fruits
+				labels_tags : nan
+				ingredients_text : wholrain wht (38 %), wholrain roll oats (36 %), raisins (12 %), sugar, skimm milk powd, milk wh powd, roast slic nuts (2.5 %) (haznuts & almonds), malt barl extract, salt.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 14.0
+				nutriscore_grade : d
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Breakfast cereals
+				ecoscore_score_fr : 75.0
+				ecoscore_grade_fr : b
+				main_category : en:mueslis-with-fruits
+				energy-kcal_100g : 750.0
+				energy_100g : 3138.0
+				fat_100g : 83.0
+				saturated-fat_100g : 57.0
+				carbohydrates_100g : 0.4
+				sugars_100g : 0.3
+				fiber_100g : 7.7
+				proteins_100g : 0.4
+				salt_100g : 0.01
+				sodium_100g : 0.004
+				language : en
+				ingredients_text_tokens : ['wholrain', 'wht', '%', 'wholrain', 'roll', 'oats', '%', 'raisins', '%', 'sugar', 'skimm', 'milk', 'powd', 'milk', 'wh', 'powd', 'roast', 'slic', 'nuts', '%', 'haznuts', 'almonds', 'malt', 'barl', 'extract', 'salt']
+----------
+	Label 3
+		Median = 0.0
+		Min = 0.0
+			Today's temptations, whole grain
+				Unnamed: 0 : 3656
+				product_name : Today's temptations, whole grain
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads
+				labels_tags : nan
+				ingredients_text : crush wht, soy flour, whole wht flour, wht flour, maltitol syrup, yst, an, oatml, multigrains, rye chops, malt rl, glut, canola oil, salt, gs.
+				additives_n : 1.0
+				additives_tags : en:e965,en:e965ii
+				nutriscore_score : -4.0
+				nutriscore_grade : a
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:breads
+				energy-kcal_100g : 161.0
+				energy_100g : 674.0
+				fat_100g : 1.79
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 21.43
+				sugars_100g : 0.0
+				fiber_100g : 14.3
+				proteins_100g : 17.86
+				salt_100g : 0.9375
+				sodium_100g : 0.375
+				language : en
+				ingredients_text_tokens : ['crush', 'wht', 'soy', 'flour', 'whole', 'wht', 'flour', 'wht', 'flour', 'maltitol', 'syrup', 'yst', 'an', 'oatml', 'multigrains', 'rye', 'chops', 'malt', 'rl', 'glut', 'canola', 'oil', 'salt', 'gs']
+		Max = 17.857142857143
+			Chow mein noodles
+				Unnamed: 0 : 7298
+				product_name : Chow mein noodles
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products,en:noodles
+				labels_tags : nan
+				ingredients_text : blch wht flour, vae oil (contains one or more of the following: soyan oil, hydrogat soyan oil, and/or canola oil), gs, g white, salt, wht glut, ascorc acid and citric acid as anti-oxidants, potassium sorte as a prvative, fd&c ylow #5 and #6.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 14.0
+				nutriscore_grade : d
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:noodles
+				energy-kcal_100g : 464.0
+				energy_100g : 1941.0
+				fat_100g : 16.07
+				saturated-fat_100g : 3.57
+				carbohydrates_100g : 67.86
+				sugars_100g : 0.0
+				fiber_100g : 3.6
+				proteins_100g : 10.71
+				salt_100g : 2.0525
+				sodium_100g : 0.821
+				language : en
+				ingredients_text_tokens : ['blch', 'wht', 'flour', 'vae', 'oil', 'contains', 'one', 'or', 'more', 'of', 'the', 'following', 'soyan', 'oil', 'hydrogat', 'soyan', 'oil', 'and', 'or', 'canola', 'oil', 'gs', 'g', 'white', 'salt', 'wht', 'glut', 'ascorc', 'acid', 'and', 'citric', 'acid', 'as', 'anti-oxidants', 'potassium', 'sorte', 'as', 'a', 'prvative', 'fd', 'c', 'ylow', 'and']
+----------
+	Label 4
+		Median = 1.1
+		Min = 0.0
+			Success 10 Minute: Precooked boil-in-bag whole grain brown rice
+				Unnamed: 0 : 32377
+				product_name : Success 10 Minute: Precooked boil-in-bag whole grain brown rice
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:seeds,en:cereals-and-their-products,en:cereal-grains,en:rices
+				labels_tags : nan
+				ingredients_text : prook paril whole grain own rice (long grain). ctifi glut fr riviana foods inc., houston, tx 77019 u.s.a. o 2017 riviana foods inc. ®succs and riviana are rist tradarks of riviana foods inc. grown in the usa riviana rice
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 2.0
+				nutriscore_grade : b
+				nova_group : nan
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : 54.0
+				ecoscore_grade_fr : c
+				main_category : en:rices
+				energy-kcal_100g : 1506.0
+				energy_100g : 6301.0
+				fat_100g : 3.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 78.0
+				sugars_100g : 0.0
+				fiber_100g : 4.0
+				proteins_100g : 8.0
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['prook', 'paril', 'whole', 'grain', 'own', 'rice', 'long', 'grain', 'ctifi', 'glut', 'fr', 'riviana', 'foods', 'inc', 'houston', 'tx', 'u', 's', 'a', 'o', 'riviana', 'foods', 'inc', 'succs', 'and', 'riviana', 'are', 'rist', 'tradarks', 'of', 'riviana', 'foods', 'inc', 'grown', 'in', 'the', 'usa', 'riviana', 'rice']
+		Max = 180.0
+			Creamy Peanut Butter
+				Unnamed: 0 : 2696
+				product_name : Creamy Peanut Butter
+				quantity : nan
+				categories_tags : nan
+				labels_tags : nan
+				ingredients_text : roast pnuts, sugar, hydrogat vae oil, (cottonsd, soyan and rapd oil) to prt saration, salt.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : nan
+				nutriscore_grade : nan
+				nova_group : 4.0
+				pnns_groups_1 : unknown
+				pnns_groups_2 : unknown
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : nan
+				energy-kcal_100g : 594.0
+				energy_100g : 2485.0
+				fat_100g : 50.0
+				saturated-fat_100g : 9.38
+				carbohydrates_100g : 18.75
+				sugars_100g : 9.38
+				fiber_100g : 6.2
+				proteins_100g : 21.88
+				salt_100g : 1.19126
+				sodium_100g : 0.476504
+				language : en
+				ingredients_text_tokens : ['roast', 'pnuts', 'sugar', 'hydrogat', 'vae', 'oil', 'cottonsd', 'soyan', 'and', 'rapd', 'oil', 'to', 'prt', 'saration', 'salt']
+----------
+-------------------------------------------
+carbohydrates_100g
+	Label 0
+		Median = 75.0
+		Min = 0.0
+			Augason Farms, Vital Wheat Gluten
+				Unnamed: 0 : 1452
+				product_name : Augason Farms, Vital Wheat Gluten
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products
+				labels_tags : nan
+				ingredients_text : vital wht glut.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : -1.0
+				nutriscore_grade : a
+				nova_group : nan
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:cereals-and-their-products
+				energy-kcal_100g : 333.0
+				energy_100g : 1393.0
+				fat_100g : 0.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 0.0
+				sugars_100g : 0.0
+				fiber_100g : 0.0
+				proteins_100g : 66.67
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['vital', 'wht', 'glut']
+		Max = 100.0
+			Rice Noodles
+				Unnamed: 0 : 28711
+				product_name : Rice Noodles
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products,en:noodles
+				labels_tags : nan
+				ingredients_text : rice flour, corn starch and wat
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 6.0
+				nutriscore_grade : c
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:noodles
+				energy-kcal_100g : 400.0
+				energy_100g : 1674.0
+				fat_100g : 1.75
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 100.0
+				sugars_100g : 0.0
+				fiber_100g : 0.0
+				proteins_100g : 0.0
+				salt_100g : 0.5175
+				sodium_100g : 0.207
+				language : en
+				ingredients_text_tokens : ['rice', 'flour', 'corn', 'starch', 'and', 'wat']
+----------
+	Label 1
+		Median = 48.48
+		Min = 0.0
+			Ranchero
+				Unnamed: 0 : 27866
+				product_name : Ranchero
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads
+				labels_tags : nan
+				ingredients_text : flour, milk, sugar, yst, shorting, gs, raisins, salt, wat
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 21.0
+				nutriscore_grade : e
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:breads
+				energy-kcal_100g : 286.0
+				energy_100g : 1197.0
+				fat_100g : 21.43
+				saturated-fat_100g : 14.29
+				carbohydrates_100g : 0.0
+				sugars_100g : 0.0
+				fiber_100g : 0.0
+				proteins_100g : 21.43
+				salt_100g : 1.965
+				sodium_100g : 0.786
+				language : en
+				ingredients_text_tokens : ['flour', 'milk', 'sugar', 'yst', 'shorting', 'gs', 'raisins', 'salt', 'wat']
+		Max = 90.58
+			Tortellini
+				Unnamed: 0 : 8333
+				product_name : Tortellini
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products,en:meals,en:pasta-dishes,en:pastas,en:stuffed-pastas,en:tortellini
+				labels_tags : nan
+				ingredients_text : pasta: durum wht solina, wat, gs, g yolks, filling: chse (ricotta, romano, parman, fontina [wh, milk, ctial culture, salt, citric acid, lipase, microal zym, calcium chloride]), toast wht crum (rich durum wht flour [flour, niacin, ruc iron, thiamine mononitrate, riflavin, folic acid]), wh powd, canola oil, parman chse flavor (parman chse [milk, start culture, salt, zym], wat), salt, garlic powd, onion powd.
+				additives_n : 2.0
+				additives_tags : en:e1104,en:e330
+				nutriscore_score : 0.0
+				nutriscore_grade : b
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:tortellini
+				energy-kcal_100g : 290.0
+				energy_100g : 1213.0
+				fat_100g : 5.0
+				saturated-fat_100g : 1.5
+				carbohydrates_100g : 50.0
+				sugars_100g : 4.0
+				fiber_100g : 2.0
+				proteins_100g : 10.0
+				salt_100g : 0.8
+				sodium_100g : 0.32
+				language : en
+				ingredients_text_tokens : ['pasta', 'durum', 'wht', 'solina', 'wat', 'gs', 'g', 'yolks', 'filling', 'chse', 'ricotta', 'romano', 'parman', 'fontina', 'wh', 'milk', 'ctial', 'culture', 'salt', 'citric', 'acid', 'lipase', 'microal', 'zym', 'calcium', 'chloride', 'toast', 'wht', 'crum', 'rich', 'durum', 'wht', 'flour', 'flour', 'niacin', 'ruc', 'iron', 'thiamine', 'mononitrate', 'riflavin', 'folic', 'acid', 'wh', 'powd', 'canola', 'oil', 'parman', 'chse', 'flavor', 'parman', 'chse', 'milk', 'start', 'culture', 'salt', 'zym', 'wat', 'salt', 'garlic', 'powd', 'onion', 'powd']
+----------
+	Label 2
+		Median = 63.1
+		Min = 0.0
+			Signature kitchens, corn oil
+				Unnamed: 0 : 44067
+				product_name : Signature kitchens, corn oil
+				quantity : 1 gallon (12.8 FL OZ) 3.78 L
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:fats,en:cereals-and-their-products,en:vegetable-fats,en:vegetable-oils,en:cereal-oils,en:corn-oils,en:oils
+				labels_tags : en:kosher,en:orthodox-union-kosher
+				ingredients_text : corn oil.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 10.0
+				nutriscore_grade : c
+				nova_group : 2.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : 34.0
+				ecoscore_grade_fr : d
+				main_category : en:oils
+				energy-kcal_100g : 800.0
+				energy_100g : 3347.0
+				fat_100g : 93.33
+				saturated-fat_100g : 13.33
+				carbohydrates_100g : 0.0
+				sugars_100g : 0.0
+				fiber_100g : 0.0
+				proteins_100g : 0.0
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['corn', 'oil']
+		Max = 97.5
+			Extra Wide Egg Noodles
+				Unnamed: 0 : 5811
+				product_name : Extra Wide Egg Noodles
+				quantity : nan
+				categories_tags : nan
+				labels_tags : nan
+				ingredients_text : durum flour (wht), g yolks or gs, niacin, frous sulfate (iron), thiamin mononitrate (vitamin ), riflavin (vitamin ), and folic acid.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : nan
+				nutriscore_grade : nan
+				nova_group : nan
+				pnns_groups_1 : unknown
+				pnns_groups_2 : unknown
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : nan
+				energy-kcal_100g : 382.0
+				energy_100g : 1598.0
+				fat_100g : 4.55
+				saturated-fat_100g : 0.91
+				carbohydrates_100g : 70.91
+				sugars_100g : 3.64
+				fiber_100g : 3.6
+				proteins_100g : 14.55
+				salt_100g : 0.09144
+				sodium_100g : 0.036576
+				language : en
+				ingredients_text_tokens : ['durum', 'flour', 'wht', 'g', 'yolks', 'or', 'gs', 'niacin', 'frous', 'sulfate', 'iron', 'thiamin', 'mononitrate', 'vitamin', 'riflavin', 'vitamin', 'and', 'folic', 'acid']
+----------
+	Label 3
+		Median = 16.15
+		Min = 0.0
+			Baby shark berry fin tastic with marshmallows flavored cereal
+				Unnamed: 0 : 37653
+				product_name : Baby shark berry fin tastic with marshmallows flavored cereal
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products
+				labels_tags : nan
+				ingredients_text : corn flour d (whole grain ylow corn flour, dminat ylow corn flour), sugar, wht flour, whole grain oat flour, dydrat marshmallow flavor ts (sugar, corn syrup, modifi corn starch, dtrose, natural and artificial flavor, gatin), contains 2% or ls of oat fir, salt, solue corn fir, natural flavor, gum arac, r 40, color add, turmic tract color, annatto tract color, ue 1, ylow 6, ylow 5, r 3, t for frhns. vitamins and minals: vitamin c (ascorc acid, sodium ascorte), niacinamide, ruc iron, zinc oxide, vitamin  (pyridoxine hydrochloride), vitamin  (riflavin), vitamin  (thiamin hydrochloride), vitamin a palmitate, folic acid, vitamin , vitamin d3.
+				additives_n : 7.0
+				additives_tags : en:e102,en:e110,en:e127,en:e129,en:e133,en:e414,en:e428
+				nutriscore_score : -3.0
+				nutriscore_grade : a
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:cereals-and-their-products
+				energy-kcal_100g : 150.0
+				energy_100g : 628.0
+				fat_100g : 1.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 0.0
+				sugars_100g : 0.0
+				fiber_100g : 5.1
+				proteins_100g : 2.0
+				salt_100g : 0.5
+				sodium_100g : 0.2
+				language : en
+				ingredients_text_tokens : ['corn', 'flour', 'd', 'whole', 'grain', 'ylow', 'corn', 'flour', 'dminat', 'ylow', 'corn', 'flour', 'sugar', 'wht', 'flour', 'whole', 'grain', 'oat', 'flour', 'dydrat', 'marshmallow', 'flavor', 'ts', 'sugar', 'corn', 'syrup', 'modifi', 'corn', 'starch', 'dtrose', 'natural', 'and', 'artificial', 'flavor', 'gatin', 'contains', '%', 'or', 'ls', 'of', 'oat', 'fir', 'salt', 'solue', 'corn', 'fir', 'natural', 'flavor', 'gum', 'arac', 'r', 'color', 'add', 'turmic', 'tract', 'color', 'annatto', 'tract', 'color', 'ue', 'ylow', 'ylow', 'r', 't', 'for', 'frhns', 'vitamins', 'and', 'minals', 'vitamin', 'c', 'ascorc', 'acid', 'sodium', 'ascorte', 'niacinamide', 'ruc', 'iron', 'zinc', 'oxide', 'vitamin', 'pyridoxine', 'hydrochloride', 'vitamin', 'riflavin', 'vitamin', 'thiamin', 'hydrochloride', 'vitamin', 'a', 'palmitate', 'folic', 'acid', 'vitamin', 'vitamin', 'd']
+		Max = 89.66
+			Corn with marshmallows cereal, marshmallows
+				Unnamed: 0 : 37403
+				product_name : Corn with marshmallows cereal, marshmallows
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breakfasts,en:cereals-and-their-products,en:breakfast-cereals,en:flakes,en:cereal-flakes,en:extruded-cereals,en:extruded-flakes,en:corn-flakes
+				labels_tags : nan
+				ingredients_text : mill corn, sugar, contains 2% or ls of malt flavor, corn syrup, modifi corn starch, dtrose, salt, gatin, natural flavor, t for frhns. vitamins and minals: iron (fric phosphate), vitamin c (ascorc acid), niacinamide, vitamin  (pyridoxine hydrochloride), vitamin  (riflavin), vitamin  (thiamin hydrochloride), vitamin a palmitate, folic acid, vitamin , vitamin d3.
+				additives_n : 1.0
+				additives_tags : en:e428
+				nutriscore_score : 13.0
+				nutriscore_grade : d
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Breakfast cereals
+				ecoscore_score_fr : 40.0
+				ecoscore_grade_fr : c
+				main_category : en:corn-flakes
+				energy-kcal_100g : 379.0
+				energy_100g : 110.0
+				fat_100g : 0.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 89.66
+				sugars_100g : 41.38
+				fiber_100g : 0.0
+				proteins_100g : 3.45
+				salt_100g : 1.12
+				sodium_100g : 0.448
+				language : en
+				ingredients_text_tokens : ['mill', 'corn', 'sugar', 'contains', '%', 'or', 'ls', 'of', 'malt', 'flavor', 'corn', 'syrup', 'modifi', 'corn', 'starch', 'dtrose', 'salt', 'gatin', 'natural', 'flavor', 't', 'for', 'frhns', 'vitamins', 'and', 'minals', 'iron', 'fric', 'phosphate', 'vitamin', 'c', 'ascorc', 'acid', 'niacinamide', 'vitamin', 'pyridoxine', 'hydrochloride', 'vitamin', 'riflavin', 'vitamin', 'thiamin', 'hydrochloride', 'vitamin', 'a', 'palmitate', 'folic', 'acid', 'vitamin', 'vitamin', 'd']
+----------
+	Label 4
+		Median = 64.49
+		Min = 5.5
+			Cold Milled Flaxseed, Almonds, Brazil Nuts, Walnuts & CoQ10
+				Unnamed: 0 : 8142
+				product_name : Cold Milled Flaxseed, Almonds, Brazil Nuts, Walnuts & CoQ10
+				quantity : 360 gr
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:seeds,en:cereals-and-their-products,en:nuts-and-their-products,en:cereal-grains
+				labels_tags : en:gluten-free,en:no-added-sugar
+				ingredients_text : 69% flaxsd, 10% almonds, 10% azil nuts, 10% walnuts, waxy maize starch, co-zyme q-10.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 15.0
+				nutriscore_grade : d
+				nova_group : 1.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:cereal-grains
+				energy-kcal_100g : 2800.0
+				energy_100g : 11700.0
+				fat_100g : 45.0
+				saturated-fat_100g : 30.5
+				carbohydrates_100g : 5.5
+				sugars_100g : 3.0
+				fiber_100g : 20.0
+				proteins_100g : 20.0
+				salt_100g : 0.1
+				sodium_100g : 0.04
+				language : en
+				ingredients_text_tokens : ['%', 'flaxsd', '%', 'almonds', '%', 'azil', 'nuts', '%', 'walnuts', 'waxy', 'maize', 'starch', 'co-zyme', 'q-']
+		Max = 120.0
+			Creamy Peanut Butter
+				Unnamed: 0 : 2696
+				product_name : Creamy Peanut Butter
+				quantity : nan
+				categories_tags : nan
+				labels_tags : nan
+				ingredients_text : roast pnuts, sugar, hydrogat vae oil, (cottonsd, soyan and rapd oil) to prt saration, salt.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : nan
+				nutriscore_grade : nan
+				nova_group : 4.0
+				pnns_groups_1 : unknown
+				pnns_groups_2 : unknown
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : nan
+				energy-kcal_100g : 594.0
+				energy_100g : 2485.0
+				fat_100g : 50.0
+				saturated-fat_100g : 9.38
+				carbohydrates_100g : 18.75
+				sugars_100g : 9.38
+				fiber_100g : 6.2
+				proteins_100g : 21.88
+				salt_100g : 1.19126
+				sodium_100g : 0.476504
+				language : en
+				ingredients_text_tokens : ['roast', 'pnuts', 'sugar', 'hydrogat', 'vae', 'oil', 'cottonsd', 'soyan', 'and', 'rapd', 'oil', 'to', 'prt', 'saration', 'salt']
+----------
+-------------------------------------------
+sugars_100g
+	Label 0
+		Median = 3.57
+		Min = 0.0
+			Creamy wheat cereal
+				Unnamed: 0 : 1444
+				product_name : Creamy wheat cereal
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products
+				labels_tags : nan
+				ingredients_text : wht.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : -3.0
+				nutriscore_grade : a
+				nova_group : 1.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:cereals-and-their-products
+				energy-kcal_100g : 360.0
+				energy_100g : 1506.0
+				fat_100g : 0.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 78.0
+				sugars_100g : 0.0
+				fiber_100g : 2.0
+				proteins_100g : 12.0
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['wht']
+		Max = 84.69
+			Minato, rice cake (azuki daifuku)
+				Unnamed: 0 : 34914
+				product_name : Minato, rice cake (azuki daifuku)
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:snacks,en:cereals-and-potatoes,en:cereals-and-their-products,en:puffed-cereal-cakes,en:puffed-rice-cakes
+				labels_tags : nan
+				ingredients_text : glutinous rice powd maltose, sugar, starch syrup, an jam tralose, hydrogat glucose syrup, gatin, g powd ulsifi.
+				additives_n : 1.0
+				additives_tags : en:e428
+				nutriscore_score : 14.0
+				nutriscore_grade : d
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : 72.0
+				ecoscore_grade_fr : b
+				main_category : en:puffed-rice-cakes
+				energy-kcal_100g : 348.0
+				energy_100g : 1456.0
+				fat_100g : 0.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 84.69
+				sugars_100g : 84.69
+				fiber_100g : 0.0
+				proteins_100g : 2.38
+				salt_100g : 0.03
+				sodium_100g : 0.012
+				language : en
+				ingredients_text_tokens : ['glutinous', 'rice', 'powd', 'maltose', 'sugar', 'starch', 'syrup', 'an', 'jam', 'tralose', 'hydrogat', 'glucose', 'syrup', 'gatin', 'g', 'powd', 'ulsifi']
+----------
+	Label 1
+		Median = 4.0808
+		Min = 0.0
+			Organic angel hair pasta
+				Unnamed: 0 : 3292
+				product_name : Organic angel hair pasta
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products,en:pastas
+				labels_tags : en:organic
+				ingredients_text : organic durum solina flour, wat, organic gs, organic turmic oil.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : -7.0
+				nutriscore_grade : a
+				nova_group : 1.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:pastas
+				energy-kcal_100g : 270.0
+				energy_100g : 1130.0
+				fat_100g : 2.5
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 55.0
+				sugars_100g : 0.0
+				fiber_100g : 10.0
+				proteins_100g : 11.0
+				salt_100g : 0.025
+				sodium_100g : 0.01
+				language : en
+				ingredients_text_tokens : ['organic', 'durum', 'solina', 'flour', 'wat', 'organic', 'gs', 'organic', 'turmic', 'oil']
+		Max = 83.33
+			Natural maple flakes
+				Unnamed: 0 : 32500
+				product_name : Natural maple flakes
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products
+				labels_tags : nan
+				ingredients_text : organic maple syrup.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 13.0
+				nutriscore_grade : d
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:cereals-and-their-products
+				energy-kcal_100g : 278.0
+				energy_100g : 1163.0
+				fat_100g : 0.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 83.33
+				sugars_100g : 83.33
+				fiber_100g : 0.0
+				proteins_100g : 0.0
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['organic', 'maple', 'syrup']
+----------
+	Label 2
+		Median = 20.0
+		Min = 0.0
+			Cheese & Garlic Croutons
+				Unnamed: 0 : 7086
+				product_name : Cheese & Garlic Croutons
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads
+				labels_tags : nan
+				ingredients_text : enrich flour (wht flour, rl malt, niacian, ruc iron, thiamin mononitrate, riflavin, folic acid), partially hydrogat soyan oil, high fructose corn syrup, dydrat chdar, parman and romano chse (wh,ttmilk [pastriz cultur milk, zym],ruc lactose wh, maltodtrin, sodium phosphate, milk, crm, cultur, sodium sasnate, citric acid, lactic acid), salt, yst. contains 2% or ls of wht glaut, nonfat dry milk, onion, garlic,parsl, calcium propionate (prvative), dough conditions (may contain one or more of the following: sodium stroyl lactylate, calciumstroyl lactylate, calcium poxide, calcium sulfate, ammonium sulfate, calcium iodate, ascorc acid), natural flavors, paprika, chiv, vinar, tq (to prve frhns).
+				additives_n : 9.0
+				additives_tags : en:e270,en:e282,en:e300,en:e319,en:e330,en:e516,en:e517,en:e916,en:e930
+				nutriscore_score : 15.0
+				nutriscore_grade : d
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:breads
+				energy-kcal_100g : 429.0
+				energy_100g : 1795.0
+				fat_100g : 14.29
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 71.43
+				sugars_100g : 0.0
+				fiber_100g : 0.0
+				proteins_100g : 14.29
+				salt_100g : 3.215
+				sodium_100g : 1.286
+				language : en
+				ingredients_text_tokens : ['enrich', 'flour', 'wht', 'flour', 'rl', 'malt', 'niacian', 'ruc', 'iron', 'thiamin', 'mononitrate', 'riflavin', 'folic', 'acid', 'partially', 'hydrogat', 'soyan', 'oil', 'high', 'fructose', 'corn', 'syrup', 'dydrat', 'chdar', 'parman', 'and', 'romano', 'chse', 'wh', 'ttmilk', 'pastriz', 'cultur', 'milk', 'zym', 'ruc', 'lactose', 'wh', 'maltodtrin', 'sodium', 'phosphate', 'milk', 'crm', 'cultur', 'sodium', 'sasnate', 'citric', 'acid', 'lactic', 'acid', 'salt', 'yst', 'contains', '%', 'or', 'ls', 'of', 'wht', 'glaut', 'nonfat', 'dry', 'milk', 'onion', 'garlic', 'parsl', 'calcium', 'propionate', 'prvative', 'dough', 'conditions', 'may', 'contain', 'one', 'or', 'more', 'of', 'the', 'following', 'sodium', 'stroyl', 'lactylate', 'calciumstroyl', 'lactylate', 'calcium', 'poxide', 'calcium', 'sulfate', 'ammonium', 'sulfate', 'calcium', 'iodate', 'ascorc', 'acid', 'natural', 'flavors', 'paprika', 'chiv', 'vinar', 'tq', 'to', 'prve', 'frhns']
+		Max = 72.97
+			Got Kosher, Original Mini Pretzel Challah Enriched Bread
+				Unnamed: 0 : 29401
+				product_name : Got Kosher, Original Mini Pretzel Challah Enriched Bread
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads
+				labels_tags : nan
+				ingredients_text : unch rich wht flour (wht flour, malt rl flour, niacin, ruc iron, thiamin mononitrate, riflavin, folic acid, ascorc acid), wat, non-gmo canola oil, cane sugar (van procs), salt, yst, sodium hydroxide, calcium sulfate, wht starch, wht flour and 2% or ls of ch of the following: zym (contains wht), salt.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 22.0
+				nutriscore_grade : e
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:breads
+				energy-kcal_100g : 454.0
+				energy_100g : 1900.0
+				fat_100g : 13.51
+				saturated-fat_100g : 2.7
+				carbohydrates_100g : 72.97
+				sugars_100g : 72.97
+				fiber_100g : 2.7
+				proteins_100g : 10.81
+				salt_100g : 1.58
+				sodium_100g : 0.632
+				language : en
+				ingredients_text_tokens : ['unch', 'rich', 'wht', 'flour', 'wht', 'flour', 'malt', 'rl', 'flour', 'niacin', 'ruc', 'iron', 'thiamin', 'mononitrate', 'riflavin', 'folic', 'acid', 'ascorc', 'acid', 'wat', 'non-gmo', 'canola', 'oil', 'cane', 'sugar', 'van', 'procs', 'salt', 'yst', 'sodium', 'hydroxide', 'calcium', 'sulfate', 'wht', 'starch', 'wht', 'flour', 'and', '%', 'or', 'ls', 'of', 'ch', 'of', 'the', 'following', 'zym', 'contains', 'wht', 'salt']
+----------
+	Label 3
+		Median = 0.8
+		Min = 0.0
+			Today's temptations, whole grain
+				Unnamed: 0 : 3656
+				product_name : Today's temptations, whole grain
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads
+				labels_tags : nan
+				ingredients_text : crush wht, soy flour, whole wht flour, wht flour, maltitol syrup, yst, an, oatml, multigrains, rye chops, malt rl, glut, canola oil, salt, gs.
+				additives_n : 1.0
+				additives_tags : en:e965,en:e965ii
+				nutriscore_score : -4.0
+				nutriscore_grade : a
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:breads
+				energy-kcal_100g : 161.0
+				energy_100g : 674.0
+				fat_100g : 1.79
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 21.43
+				sugars_100g : 0.0
+				fiber_100g : 14.3
+				proteins_100g : 17.86
+				salt_100g : 0.9375
+				sodium_100g : 0.375
+				language : en
+				ingredients_text_tokens : ['crush', 'wht', 'soy', 'flour', 'whole', 'wht', 'flour', 'wht', 'flour', 'maltitol', 'syrup', 'yst', 'an', 'oatml', 'multigrains', 'rye', 'chops', 'malt', 'rl', 'glut', 'canola', 'oil', 'salt', 'gs']
+		Max = 44.83
+			Cereal
+				Unnamed: 0 : 3900
+				product_name : Cereal
+				quantity : nan
+				categories_tags : nan
+				labels_tags : nan
+				ingredients_text : roll oats, sugar, walnuts, liquid and hydrogat soyan oil (tq, citric acid), wat, contains ls than 2%: oat an, salt, cid vinar, soy lithin, natural and artificial flavor, ta carote.
+				additives_n : 4.0
+				additives_tags : en:e160a,en:e160ai,en:e319,en:e322,en:e322i,en:e330
+				nutriscore_score : nan
+				nutriscore_grade : nan
+				nova_group : 4.0
+				pnns_groups_1 : unknown
+				pnns_groups_2 : unknown
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : nan
+				energy-kcal_100g : 421.0
+				energy_100g : 1761.0
+				fat_100g : 17.54
+				saturated-fat_100g : 2.63
+				carbohydrates_100g : 61.4
+				sugars_100g : 22.81
+				fiber_100g : 5.3
+				proteins_100g : 8.77
+				salt_100g : 0.93472
+				sodium_100g : 0.373888
+				language : en
+				ingredients_text_tokens : ['roll', 'oats', 'sugar', 'walnuts', 'liquid', 'and', 'hydrogat', 'soyan', 'oil', 'tq', 'citric', 'acid', 'wat', 'contains', 'ls', 'than', '%', 'oat', 'an', 'salt', 'cid', 'vinar', 'soy', 'lithin', 'natural', 'and', 'artificial', 'flavor', 'ta', 'carote']
+----------
+	Label 4
+		Median = 5.46
+		Min = 0.0
+			Success 10 Minute: Precooked boil-in-bag whole grain brown rice
+				Unnamed: 0 : 32377
+				product_name : Success 10 Minute: Precooked boil-in-bag whole grain brown rice
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:seeds,en:cereals-and-their-products,en:cereal-grains,en:rices
+				labels_tags : nan
+				ingredients_text : prook paril whole grain own rice (long grain). ctifi glut fr riviana foods inc., houston, tx 77019 u.s.a. o 2017 riviana foods inc. ®succs and riviana are rist tradarks of riviana foods inc. grown in the usa riviana rice
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 2.0
+				nutriscore_grade : b
+				nova_group : nan
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : 54.0
+				ecoscore_grade_fr : c
+				main_category : en:rices
+				energy-kcal_100g : 1506.0
+				energy_100g : 6301.0
+				fat_100g : 3.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 78.0
+				sugars_100g : 0.0
+				fiber_100g : 4.0
+				proteins_100g : 8.0
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['prook', 'paril', 'whole', 'grain', 'own', 'rice', 'long', 'grain', 'ctifi', 'glut', 'fr', 'riviana', 'foods', 'inc', 'houston', 'tx', 'u', 's', 'a', 'o', 'riviana', 'foods', 'inc', 'succs', 'and', 'riviana', 'are', 'rist', 'tradarks', 'of', 'riviana', 'foods', 'inc', 'grown', 'in', 'the', 'usa', 'riviana', 'rice']
+		Max = 60.0
+			Creamy Peanut Butter
+				Unnamed: 0 : 2696
+				product_name : Creamy Peanut Butter
+				quantity : nan
+				categories_tags : nan
+				labels_tags : nan
+				ingredients_text : roast pnuts, sugar, hydrogat vae oil, (cottonsd, soyan and rapd oil) to prt saration, salt.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : nan
+				nutriscore_grade : nan
+				nova_group : 4.0
+				pnns_groups_1 : unknown
+				pnns_groups_2 : unknown
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : nan
+				energy-kcal_100g : 594.0
+				energy_100g : 2485.0
+				fat_100g : 50.0
+				saturated-fat_100g : 9.38
+				carbohydrates_100g : 18.75
+				sugars_100g : 9.38
+				fiber_100g : 6.2
+				proteins_100g : 21.88
+				salt_100g : 1.19126
+				sodium_100g : 0.476504
+				language : en
+				ingredients_text_tokens : ['roast', 'pnuts', 'sugar', 'hydrogat', 'vae', 'oil', 'cottonsd', 'soyan', 'and', 'rapd', 'oil', 'to', 'prt', 'saration', 'salt']
+----------
+-------------------------------------------
+fiber_100g
+	Label 0
+		Median = 3.6
+		Min = 0.0
+			Augason Farms, Vital Wheat Gluten
+				Unnamed: 0 : 1452
+				product_name : Augason Farms, Vital Wheat Gluten
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products
+				labels_tags : nan
+				ingredients_text : vital wht glut.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : -1.0
+				nutriscore_grade : a
+				nova_group : nan
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:cereals-and-their-products
+				energy-kcal_100g : 333.0
+				energy_100g : 1393.0
+				fat_100g : 0.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 0.0
+				sugars_100g : 0.0
+				fiber_100g : 0.0
+				proteins_100g : 66.67
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['vital', 'wht', 'glut']
+		Max = 43.6
+			Lightly sweetened whole grain wheat cereal
+				Unnamed: 0 : 36502
+				product_name : Lightly sweetened whole grain wheat cereal
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products
+				labels_tags : nan
+				ingredients_text : whole grain wht, sugar, high fructose corn syrup, gatin, vitamins and minals: ruc iron, niacinamide, zinc oxide, pyridoxine hydrochloride (vitamin ), riflavin (vitamin ), thiamin hydrochloride (vitamin ), folic acid and vitamin .
+				additives_n : 1.0
+				additives_tags : en:e428
+				nutriscore_score : -2.0
+				nutriscore_grade : a
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:cereals-and-their-products
+				energy-kcal_100g : 353.0
+				energy_100g : 1477.0
+				fat_100g : 1.96
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 80.39
+				sugars_100g : 19.61
+				fiber_100g : 9.8
+				proteins_100g : 9.8
+				salt_100g : 0.025
+				sodium_100g : 0.01
+				language : en
+				ingredients_text_tokens : ['whole', 'grain', 'wht', 'sugar', 'high', 'fructose', 'corn', 'syrup', 'gatin', 'vitamins', 'and', 'minals', 'ruc', 'iron', 'niacinamide', 'zinc', 'oxide', 'pyridoxine', 'hydrochloride', 'vitamin', 'riflavin', 'vitamin', 'thiamin', 'hydrochloride', 'vitamin', 'folic', 'acid', 'and', 'vitamin']
+----------
+	Label 1
+		Median = 2.6
+		Min = 0.0
+			Giant white enriched bread, white
+				Unnamed: 0 : 2168
+				product_name : Giant white enriched bread, white
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads
+				labels_tags : en:designated-origin-denomination
+				ingredients_text : unch rich wht flour (wht flour, malt rl flour, niacin, iron, thiamin mononitrate, riflavin, folic acid), wat, high fructose corn syrup, yst, contains 2% or ls of the following: soyan and/ or canola oil, salt, wht glut, do
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 4.0
+				nutriscore_grade : c
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:breads
+				energy-kcal_100g : 269.0
+				energy_100g : 1125.0
+				fat_100g : 3.85
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 46.15
+				sugars_100g : 3.85
+				fiber_100g : 0.0
+				proteins_100g : 7.69
+				salt_100g : 1.25
+				sodium_100g : 0.5
+				language : en
+				ingredients_text_tokens : ['unch', 'rich', 'wht', 'flour', 'wht', 'flour', 'malt', 'rl', 'flour', 'niacin', 'iron', 'thiamin', 'mononitrate', 'riflavin', 'folic', 'acid', 'wat', 'high', 'fructose', 'corn', 'syrup', 'yst', 'contains', '%', 'or', 'ls', 'of', 'the', 'following', 'soyan', 'and', 'or', 'canola', 'oil', 'salt', 'wht', 'glut', 'do']
+		Max = 62.0
+			Mission Deli Super Soft Seeded Wraps
+				Unnamed: 0 : 17865
+				product_name : Mission Deli Super Soft Seeded Wraps
+				quantity : 8
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads,en:flatbreads,en:white-breads,en:wheat-breads,en:wheat-flatbreads
+				labels_tags : en:vegetarian,en:vegan
+				ingredients_text : fortifi wht flour (wht flour, calcium carnate, iron, niacin (b3), thiamin (b1)), wat, wholl wht flour, sd bld (5%) (brown linsd, gold linsd, mill sd, sunflow sd, poppy sd, pumpkin sd, chia sd), vae oils (palm oil*, rapd oil), humtant (glycol), sugar, emulsifis (mono - and diglycid of fatty acids, diacyl tartaric acid ests of mono - and diglycid of fatty acids), raising agts (sodium carnat, diphosphat), salt, prvativ (potassium sorte, calcium propionate), acidity rulator (malic acid), stalis (sodium carxy mhyl clulose), flour trtmt agt (l-cystne), *we use 100% sustainae palm oil
+				additives_n : 10.0
+				additives_tags : en:e202,en:e282,en:e296,en:e422,en:e450,en:e466,en:e471,en:e472d,en:e500,en:e920
+				nutriscore_score : -2.0
+				nutriscore_grade : a
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : 89.0
+				ecoscore_grade_fr : b
+				main_category : en:wheat-flatbreads
+				energy-kcal_100g : 304.0
+				energy_100g : 1283.0
+				fat_100g : 6.2
+				saturated-fat_100g : 2.4
+				carbohydrates_100g : 50.1
+				sugars_100g : 1.5
+				fiber_100g : 62.0
+				proteins_100g : 8.6
+				salt_100g : 0.9
+				sodium_100g : 0.36
+				language : en
+				ingredients_text_tokens : ['fortifi', 'wht', 'flour', 'wht', 'flour', 'calcium', 'carnate', 'iron', 'niacin', 'b', 'thiamin', 'b', 'wat', 'wholl', 'wht', 'flour', 'sd', 'bld', '%', 'brown', 'linsd', 'gold', 'linsd', 'mill', 'sd', 'sunflow', 'sd', 'poppy', 'sd', 'pumpkin', 'sd', 'chia', 'sd', 'vae', 'oils', 'palm', 'oil', 'rapd', 'oil', 'humtant', 'glycol', 'sugar', 'emulsifis', 'mono', '-', 'and', 'diglycid', 'of', 'fatty', 'acids', 'diacyl', 'tartaric', 'acid', 'ests', 'of', 'mono', '-', 'and', 'diglycid', 'of', 'fatty', 'acids', 'raising', 'agts', 'sodium', 'carnat', 'diphosphat', 'salt', 'prvativ', 'potassium', 'sorte', 'calcium', 'propionate', 'acidity', 'rulator', 'malic', 'acid', 'stalis', 'sodium', 'carxy', 'mhyl', 'clulose', 'flour', 'trtmt', 'agt', 'l-cystne', 'we', 'use', '%', 'sustainae', 'palm', 'oil']
+----------
+	Label 2
+		Median = 5.5
+		Min = 0.0
+			Peanut Butter
+				Unnamed: 0 : 1831
+				product_name : Peanut Butter
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:legumes-and-their-products,en:spreads,en:nuts-and-their-products,en:plant-based-spreads,en:oilseed-purees,en:legume-butters,en:nut-butters,en:peanut-butters
+				labels_tags : nan
+				ingredients_text : dry roast pnuts.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : -1.0
+				nutriscore_grade : a
+				nova_group : 1.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Legumes
+				ecoscore_score_fr : 37.0
+				ecoscore_grade_fr : d
+				main_category : en:peanut-butters
+				energy-kcal_100g : 570.0
+				energy_100g : 2385.0
+				fat_100g : 48.0
+				saturated-fat_100g : 7.5
+				carbohydrates_100g : 21.0
+				sugars_100g : 3.0
+				fiber_100g : 9.4
+				proteins_100g : 21.0
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['dry', 'roast', 'pnuts']
+		Max = 42.0
+			Graines de chia
+				Unnamed: 0 : 48709
+				product_name : Graines de chia
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:seeds,en:cereals-and-their-products,en:cereal-grains,en:chia
+				labels_tags : en:vegetarian,en:no-gluten,en:vegan
+				ingredients_text : get creative with add to your smooth fruit-infused waters mix with aimond or for a tasty spread sprinkle a spoonful oatmeal, yogurt, sa bake them into brea cookies, toi use to thicken soup gravies & dressings ô make your favorite marmelade with chi, benefits of chia se high in omega ,a ô magnesium, zinc, protein & fiber ô may promote health bones, digestion imported by: bija orange, ca 92868 product of argentinà, bolivia, paraguay, mexico 8 certified organic by oia
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : -4.0
+				nutriscore_grade : a
+				nova_group : nan
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : 15.0
+				ecoscore_grade_fr : e
+				main_category : en:chia
+				energy-kcal_100g : 499.0
+				energy_100g : 2088.0
+				fat_100g : 25.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 0.0
+				sugars_100g : 0.0
+				fiber_100g : 42.0
+				proteins_100g : 25.0
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['get', 'creative', 'with', 'add', 'to', 'your', 'smooth', 'fruit-infused', 'waters', 'mix', 'with', 'aimond', 'or', 'for', 'a', 'tasty', 'spread', 'sprinkle', 'a', 'spoonful', 'oatmeal', 'yogurt', 'sa', 'bake', 'them', 'into', 'brea', 'cookies', 'toi', 'use', 'to', 'thicken', 'soup', 'gravies', 'dressings', 'make', 'your', 'favorite', 'marmelade', 'with', 'chi', 'benefits', 'of', 'chia', 'se', 'high', 'in', 'omega', 'a', 'magnesium', 'zinc', 'protein', 'fiber', 'may', 'promote', 'health', 'bones', 'digestion', 'imported', 'by', 'bija', 'orange', 'ca', 'product', 'of', 'argentin', 'bolivia', 'paraguay', 'mexico', 'certified', 'organic', 'by', 'oia']
+----------
+	Label 3
+		Median = 4.5
+		Min = 0.0
+			Crispy rice cereal
+				Unnamed: 0 : 6355
+				product_name : Crispy rice cereal
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products
+				labels_tags : nan
+				ingredients_text : rice, sugar, corn syrup, salt. vitamins and minals: fric orthophosphate (source of iron), sodium ascorte (vitamin c), niacinamide (vitamin b), zinc oxide (source of zinc), folic acid, riflavin (vitamin ), pyridoxine hydrochloride (vitamin ), vitamin a palmitate, thiamine mononitrate (vitamin ), vitamin , vitamin d3.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 4.0
+				nutriscore_grade : c
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:cereals-and-their-products
+				energy-kcal_100g : 160.0
+				energy_100g : 669.0
+				fat_100g : 0.5
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 36.0
+				sugars_100g : 10.0
+				fiber_100g : 0.0
+				proteins_100g : 3.0
+				salt_100g : 0.6
+				sodium_100g : 0.24
+				language : en
+				ingredients_text_tokens : ['rice', 'sugar', 'corn', 'syrup', 'salt', 'vitamins', 'and', 'minals', 'fric', 'orthophosphate', 'source', 'of', 'iron', 'sodium', 'ascorte', 'vitamin', 'c', 'niacinamide', 'vitamin', 'b', 'zinc', 'oxide', 'source', 'of', 'zinc', 'folic', 'acid', 'riflavin', 'vitamin', 'pyridoxine', 'hydrochloride', 'vitamin', 'vitamin', 'a', 'palmitate', 'thiamine', 'mononitrate', 'vitamin', 'vitamin', 'vitamin', 'd']
+		Max = 44.4
+			La fe, white beans
+				Unnamed: 0 : 49119
+				product_name : La fe, white beans
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:legumes-and-their-products,en:legumes,en:seeds,en:legume-seeds,en:pulses,en:common-beans,en:white-beans,en:vegetable-mixes
+				labels_tags : nan
+				ingredients_text : white ans.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : -10.0
+				nutriscore_grade : a
+				nova_group : 1.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Legumes
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:vegetable-mixes
+				energy-kcal_100g : 0.0
+				energy_100g : 0.0
+				fat_100g : 0.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 63.89
+				sugars_100g : 2.78
+				fiber_100g : 44.4
+				proteins_100g : 22.22
+				salt_100g : 0.1725
+				sodium_100g : 0.069
+				language : en
+				ingredients_text_tokens : ['white', 'ans']
+----------
+	Label 4
+		Median = 8.45
+		Min = 3.33
+			Sunbites Bread bites
+				Unnamed: 0 : 14208
+				product_name : Sunbites Bread bites
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads,fr:pains-croustillants
+				labels_tags : nan
+				ingredients_text : wheat flour, vegetable oils (palm olein - sunflower), cheese and herbs seasoning [maltodextrin (malze), bread powder, whey powder, onion powder, parsley, cheese powder, soya flour, sugar, salt, flavor enhancers (e621, eso8, e627, e631), vegetable oils (palm, coconut), anti-caking agents (es51, e341(iii), acidity regulator (e330)], natural colors (e, e141(i), e(ii), baking powder. allergen: contains wheat (cereal contains gluten). milk (lactose) & soya.
+				additives_n : 8.0
+				additives_tags : en:e141,en:e141i,en:e160a,en:e160aii,en:e160c,en:e330,en:e341,en:e341iii,en:e621,en:e627,en:e631
+				nutriscore_score : 24.0
+				nutriscore_grade : e
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : fr:pains-croustillants
+				energy-kcal_100g : 1530.0
+				energy_100g : 6420.0
+				fat_100g : 16.7
+				saturated-fat_100g : 13.3
+				carbohydrates_100g : 70.0
+				sugars_100g : 4.67
+				fiber_100g : 3.33
+				proteins_100g : 10.0
+				salt_100g : 1.38
+				sodium_100g : 0.552
+				language : en
+				ingredients_text_tokens : ['wheat', 'flour', 'vegetable', 'oils', 'palm', 'olein', '-', 'sunflower', 'cheese', 'and', 'herbs', 'seasoning', 'maltodextrin', 'malze', 'bread', 'powder', 'whey', 'powder', 'onion', 'powder', 'parsley', 'cheese', 'powder', 'soya', 'flour', 'sugar', 'salt', 'flavor', 'enhancers', 'e', 'eso', 'e', 'e', 'vegetable', 'oils', 'palm', 'coconut', 'anti-caking', 'agents', 'es', 'e', 'iii', 'acidity', 'regulator', 'e', 'natural', 'colors', 'e', 'e', 'i', 'e', 'ii', 'baking', 'powder', 'allergen', 'contains', 'wheat', 'cereal', 'contains', 'gluten', 'milk', 'lactose', 'soya']
+		Max = 40.0
+			Creamy Peanut Butter
+				Unnamed: 0 : 2696
+				product_name : Creamy Peanut Butter
+				quantity : nan
+				categories_tags : nan
+				labels_tags : nan
+				ingredients_text : roast pnuts, sugar, hydrogat vae oil, (cottonsd, soyan and rapd oil) to prt saration, salt.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : nan
+				nutriscore_grade : nan
+				nova_group : 4.0
+				pnns_groups_1 : unknown
+				pnns_groups_2 : unknown
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : nan
+				energy-kcal_100g : 594.0
+				energy_100g : 2485.0
+				fat_100g : 50.0
+				saturated-fat_100g : 9.38
+				carbohydrates_100g : 18.75
+				sugars_100g : 9.38
+				fiber_100g : 6.2
+				proteins_100g : 21.88
+				salt_100g : 1.19126
+				sodium_100g : 0.476504
+				language : en
+				ingredients_text_tokens : ['roast', 'pnuts', 'sugar', 'hydrogat', 'vae', 'oil', 'cottonsd', 'soyan', 'and', 'rapd', 'oil', 'to', 'prt', 'saration', 'salt']
+----------
+-------------------------------------------
+proteins_100g
+	Label 0
+		Median = 10.0
+		Min = 0.0
+			Rice cakes
+				Unnamed: 0 : 4697
+				product_name : Rice cakes
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products,en:puffed-cereal-cakes,en:puffed-rice-cakes
+				labels_tags : en:no-gluten
+				ingredients_text : source of fibre sv 3 - ch cake provid engy} fai isaturatsugars salt  i o. : &lt;o.lg ko.lg &lt;o.lg
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 8.0
+				nutriscore_grade : c
+				nova_group : nan
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : 74.0
+				ecoscore_grade_fr : b
+				main_category : en:puffed-rice-cakes
+				energy-kcal_100g : 386.0
+				energy_100g : 1615.0
+				fat_100g : 2.0
+				saturated-fat_100g : 1.0
+				carbohydrates_100g : 1.0
+				sugars_100g : 1.0
+				fiber_100g : 0.0
+				proteins_100g : 0.0
+				salt_100g : 1.0
+				sodium_100g : 0.4
+				language : en
+				ingredients_text_tokens : ['source', 'of', 'fibre', 'sv', '-', 'ch', 'cake', 'provid', 'engy', 'fai', 'isaturatsugars', 'salt', 'i', 'o', 'lt', 'o', 'lg', 'ko', 'lg', 'lt', 'o', 'lg']
+		Max = 76.67
+			Vital wheat gluten
+				Unnamed: 0 : 42499
+				product_name : Vital wheat gluten
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products
+				labels_tags : nan
+				ingredients_text : wht glut.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : -4.0
+				nutriscore_grade : a
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:cereals-and-their-products
+				energy-kcal_100g : 400.0
+				energy_100g : 1674.0
+				fat_100g : 1.67
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 13.33
+				sugars_100g : 0.0
+				fiber_100g : 3.3
+				proteins_100g : 76.67
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['wht', 'glut']
+----------
+	Label 1
+		Median = 8.82
+		Min = 0.0
+			Band Of Bakers, Artisan Bread, Jalapeno Cheddar Cheese
+				Unnamed: 0 : 11683
+				product_name : Band Of Bakers, Artisan Bread, Jalapeno Cheddar Cheese
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads
+				labels_tags : nan
+				ingredients_text : unch wht flour, durum flour, filt wat, sharp ag chdar chse (pastriz milk, chse cultur, salt, zym, annatto (vae color), frh jalapo pps, s salt, yst.
+				additives_n : 1.0
+				additives_tags : en:e160b
+				nutriscore_score : 9.0
+				nutriscore_grade : c
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:breads
+				energy-kcal_100g : 228.0
+				energy_100g : 954.0
+				fat_100g : 6.14
+				saturated-fat_100g : 3.51
+				carbohydrates_100g : 35.09
+				sugars_100g : 0.0
+				fiber_100g : 1.8
+				proteins_100g : 0.0
+				salt_100g : 1.14
+				sodium_100g : 0.456
+				language : en
+				ingredients_text_tokens : ['unch', 'wht', 'flour', 'durum', 'flour', 'filt', 'wat', 'sharp', 'ag', 'chdar', 'chse', 'pastriz', 'milk', 'chse', 'cultur', 'salt', 'zym', 'annatto', 'vae', 'color', 'frh', 'jalapo', 'pps', 's', 'salt', 'yst']
+		Max = 38.1
+			Ultra Thin Pizza Crust
+				Unnamed: 0 : 48974
+				product_name : Ultra Thin Pizza Crust
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products,en:pie-dough
+				labels_tags : nan
+				ingredients_text : enrich wht flour (zym, niacin, ruc iron, thiamin mononitrate, riflavin, folic acid, silicon dioxide), wat, contains ls than 2% of cultur wht flour, dtrose, inactive dry yst, fumaric acid, hon, wht flour, malt rl flour, ascorc acid, king powd, soyan oil, salt, palm oil, sugar, wh, wht starch, yst.
+				additives_n : 1.0
+				additives_tags : en:e297
+				nutriscore_score : -2.0
+				nutriscore_grade : a
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:pie-dough
+				energy-kcal_100g : 289.0
+				energy_100g : 1209.0
+				fat_100g : 2.22
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 57.78
+				sugars_100g : 2.22
+				fiber_100g : 2.2
+				proteins_100g : 8.89
+				salt_100g : 0.4725
+				sodium_100g : 0.189
+				language : en
+				ingredients_text_tokens : ['enrich', 'wht', 'flour', 'zym', 'niacin', 'ruc', 'iron', 'thiamin', 'mononitrate', 'riflavin', 'folic', 'acid', 'silicon', 'dioxide', 'wat', 'contains', 'ls', 'than', '%', 'of', 'cultur', 'wht', 'flour', 'dtrose', 'inactive', 'dry', 'yst', 'fumaric', 'acid', 'hon', 'wht', 'flour', 'malt', 'rl', 'flour', 'ascorc', 'acid', 'king', 'powd', 'soyan', 'oil', 'salt', 'palm', 'oil', 'sugar', 'wh', 'wht', 'starch', 'yst']
+----------
+	Label 2
+		Median = 10.0
+		Min = 0.0
+			Top'ems crispy jalapenos
+				Unnamed: 0 : 10331
+				product_name : Top'ems crispy jalapenos
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads
+				labels_tags : nan
+				ingredients_text : jalapo pps, rich flour (wht flour, niacin, ruc iron, thiamine mononitrate, riflavin, folic acid), sunflow and/or safflow and/or canola oil, salt.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 9.0
+				nutriscore_grade : c
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:breads
+				energy-kcal_100g : 571.0
+				energy_100g : 2389.0
+				fat_100g : 42.86
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 42.86
+				sugars_100g : 0.0
+				fiber_100g : 0.0
+				proteins_100g : 0.0
+				salt_100g : 0.535
+				sodium_100g : 0.214
+				language : en
+				ingredients_text_tokens : ['jalapo', 'pps', 'rich', 'flour', 'wht', 'flour', 'niacin', 'ruc', 'iron', 'thiamine', 'mononitrate', 'riflavin', 'folic', 'acid', 'sunflow', 'and', 'or', 'safflow', 'and', 'or', 'canola', 'oil', 'salt']
+		Max = 40.0
+			Soy flour
+				Unnamed: 0 : 42588
+				product_name : Soy flour
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products
+				labels_tags : nan
+				ingredients_text : organic soy.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : -1.0
+				nutriscore_grade : a
+				nova_group : 1.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:cereals-and-their-products
+				energy-kcal_100g : 433.0
+				energy_100g : 1812.0
+				fat_100g : 16.67
+				saturated-fat_100g : 3.33
+				carbohydrates_100g : 33.33
+				sugars_100g : 6.67
+				fiber_100g : 13.3
+				proteins_100g : 40.0
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['organic', 'soy']
+----------
+	Label 3
+		Median = 5.38
+		Min = 0.0
+			Pasta zero shaped shirataki spaghetti
+				Unnamed: 0 : 3783
+				product_name : Pasta zero shaped shirataki spaghetti
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products,en:pastas
+				labels_tags : nan
+				ingredients_text : wat, konjac flour, chickp flour, potato starch, calcium hydroxide.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : -2.0
+				nutriscore_grade : a
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:pastas
+				energy-kcal_100g : 18.0
+				energy_100g : 75.0
+				fat_100g : 0.44
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 4.42
+				sugars_100g : 0.0
+				fiber_100g : 2.7
+				proteins_100g : 0.0
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['wat', 'konjac', 'flour', 'chickp', 'flour', 'potato', 'starch', 'calcium', 'hydroxide']
+		Max = 43.3333
+			Roasted black beans
+				Unnamed: 0 : 24562
+				product_name : Roasted black beans
+				quantity : 125 g
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:legumes-and-their-products,en:snacks,en:legumes,en:seeds,en:legume-seeds,en:pulses,en:common-beans
+				labels_tags : en:source-of-iron,en:source-of-dietary-fibre
+				ingredients_text : roast black soyan (87%), sugar, cocoa powd (3.5%), coff powd, s salt (0.5%), maltodtrin, corn starch, vanilla extract.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : -5.0
+				nutriscore_grade : a
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Legumes
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:common-beans
+				energy-kcal_100g : 420.6501
+				energy_100g : 528.0
+				fat_100g : 16.6667
+				saturated-fat_100g : 2.6667
+				carbohydrates_100g : 15.6667
+				sugars_100g : 9.3333
+				fiber_100g : 5.2
+				proteins_100g : 43.3333
+				salt_100g : 0.16666675
+				sodium_100g : 0.0666667
+				language : en
+				ingredients_text_tokens : ['roast', 'black', 'soyan', '%', 'sugar', 'cocoa', 'powd', '%', 'coff', 'powd', 's', 'salt', '%', 'maltodtrin', 'corn', 'starch', 'vanilla', 'extract']
+----------
+	Label 4
+		Median = 10.05
+		Min = 3.85
+			Graham pie crust
+				Unnamed: 0 : 6926
+				product_name : Graham pie crust
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products,en:pie-dough
+				labels_tags : nan
+				ingredients_text : enrich flour (wht flour, niacin, ruc iron, vitamin  [thiamin mononitrate], vitamin  [riflavin], folic acid), palm and palm kn oil with tq for frhns, sugar, graham flour, corn syrup, molass, contains 2% or ls of salt, lving (king soda, sodium acid pyrophosphate, monocalcium phosphate), malt tract, soy lithin
+				additives_n : 4.0
+				additives_tags : en:e322,en:e322i,en:e341,en:e341i,en:e450,en:e450i,en:e500,en:e500ii
+				nutriscore_score : 22.0
+				nutriscore_grade : e
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:pie-dough
+				energy-kcal_100g : 476.0
+				energy_100g : 1992.0
+				fat_100g : 23.81
+				saturated-fat_100g : 14.29
+				carbohydrates_100g : 66.67
+				sugars_100g : 28.57
+				fiber_100g : 4.8
+				proteins_100g : 4.76
+				salt_100g : 1.37
+				sodium_100g : 0.548
+				language : en
+				ingredients_text_tokens : ['enrich', 'flour', 'wht', 'flour', 'niacin', 'ruc', 'iron', 'vitamin', 'thiamin', 'mononitrate', 'vitamin', 'riflavin', 'folic', 'acid', 'palm', 'and', 'palm', 'kn', 'oil', 'with', 'tq', 'for', 'frhns', 'sugar', 'graham', 'flour', 'corn', 'syrup', 'molass', 'contains', '%', 'or', 'ls', 'of', 'salt', 'lving', 'king', 'soda', 'sodium', 'acid', 'pyrophosphate', 'monocalcium', 'phosphate', 'malt', 'tract', 'soy', 'lithin']
+		Max = 120.0
+			Creamy Peanut Butter
+				Unnamed: 0 : 2696
+				product_name : Creamy Peanut Butter
+				quantity : nan
+				categories_tags : nan
+				labels_tags : nan
+				ingredients_text : roast pnuts, sugar, hydrogat vae oil, (cottonsd, soyan and rapd oil) to prt saration, salt.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : nan
+				nutriscore_grade : nan
+				nova_group : 4.0
+				pnns_groups_1 : unknown
+				pnns_groups_2 : unknown
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : nan
+				energy-kcal_100g : 594.0
+				energy_100g : 2485.0
+				fat_100g : 50.0
+				saturated-fat_100g : 9.38
+				carbohydrates_100g : 18.75
+				sugars_100g : 9.38
+				fiber_100g : 6.2
+				proteins_100g : 21.88
+				salt_100g : 1.19126
+				sodium_100g : 0.476504
+				language : en
+				ingredients_text_tokens : ['roast', 'pnuts', 'sugar', 'hydrogat', 'vae', 'oil', 'cottonsd', 'soyan', 'and', 'rapd', 'oil', 'to', 'prt', 'saration', 'salt']
+----------
+-------------------------------------------
+salt_100g
+	Label 0
+		Median = 0.06
+		Min = 0.0
+			Creamy wheat cereal
+				Unnamed: 0 : 1444
+				product_name : Creamy wheat cereal
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products
+				labels_tags : nan
+				ingredients_text : wht.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : -3.0
+				nutriscore_grade : a
+				nova_group : 1.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:cereals-and-their-products
+				energy-kcal_100g : 360.0
+				energy_100g : 1506.0
+				fat_100g : 0.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 78.0
+				sugars_100g : 0.0
+				fiber_100g : 2.0
+				proteins_100g : 12.0
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['wht']
+		Max = 90.7034
+			Classic pasta enriched tomato and spinach macaroni product, tri-color rotini
+				Unnamed: 0 : 19267
+				product_name : Classic pasta enriched tomato and spinach macaroni product, tri-color rotini
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products,en:pastas
+				labels_tags : nan
+				ingredients_text : durum wht solina, [rich with iron (frous sulfate) and b vitamins (niacin, thiamin mononitrate, riflavin, folic acid)], tomato solids, dri spinach.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 13.0
+				nutriscore_grade : d
+				nova_group : 1.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:pastas
+				energy-kcal_100g : 375.0
+				energy_100g : 1569.0
+				fat_100g : 1.79
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 75.0
+				sugars_100g : 3.57
+				fiber_100g : 1.8
+				proteins_100g : 12.5
+				salt_100g : 90.7034
+				sodium_100g : 36.28136
+				language : en
+				ingredients_text_tokens : ['durum', 'wht', 'solina', 'rich', 'with', 'iron', 'frous', 'sulfate', 'and', 'b', 'vitamins', 'niacin', 'thiamin', 'mononitrate', 'riflavin', 'folic', 'acid', 'tomato', 'solids', 'dri', 'spinach']
+----------
+	Label 1
+		Median = 1.13
+		Min = 0.0
+			No salt added whole wheat bread
+				Unnamed: 0 : 41443
+				product_name : No salt added whole wheat bread
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads,en:white-breads,en:wheat-breads
+				labels_tags : nan
+				ingredients_text : whole wht flour, wat, wht glut, sugar, contains 2% or ls of the following: soyan and/ or canola oil, yst, molass, dough conditions (hoxylat mono - and diglycid, mono - and diglycid, monoglycid, ascorc acid, zym), malt rl flour, calcium propionate (prvative), ammonium sulfate, soy lithin, vinar.
+				additives_n : 5.0
+				additives_tags : en:e282,en:e300,en:e322,en:e322i,en:e471,en:e517
+				nutriscore_score : -7.0
+				nutriscore_grade : a
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:wheat-breads
+				energy-kcal_100g : 250.0
+				energy_100g : 1046.0
+				fat_100g : 3.57
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 42.86
+				sugars_100g : 3.57
+				fiber_100g : 7.1
+				proteins_100g : 10.71
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['whole', 'wht', 'flour', 'wat', 'wht', 'glut', 'sugar', 'contains', '%', 'or', 'ls', 'of', 'the', 'following', 'soyan', 'and', 'or', 'canola', 'oil', 'yst', 'molass', 'dough', 'conditions', 'hoxylat', 'mono', '-', 'and', 'diglycid', 'mono', '-', 'and', 'diglycid', 'monoglycid', 'ascorc', 'acid', 'zym', 'malt', 'rl', 'flour', 'calcium', 'propionate', 'prvative', 'ammonium', 'sulfate', 'soy', 'lithin', 'vinar']
+		Max = 1040.0
+			White Bread
+				Unnamed: 0 : 19224
+				product_name : White Bread
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads,en:white-breads
+				labels_tags : nan
+				ingredients_text : wht flour, malt rl flour, wat, salt, yst
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 1.0
+				nutriscore_grade : b
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:white-breads
+				energy-kcal_100g : 220.0
+				energy_100g : 920.0
+				fat_100g : 0.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 43.9
+				sugars_100g : 0.0
+				fiber_100g : 2.4
+				proteins_100g : 7.32
+				salt_100g : 1.1575
+				sodium_100g : 0.463
+				language : en
+				ingredients_text_tokens : ['wht', 'flour', 'malt', 'rl', 'flour', 'wat', 'salt', 'yst']
+----------
+	Label 2
+		Median = 0.79
+		Min = 0.0
+			Peanut Butter
+				Unnamed: 0 : 1831
+				product_name : Peanut Butter
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:legumes-and-their-products,en:spreads,en:nuts-and-their-products,en:plant-based-spreads,en:oilseed-purees,en:legume-butters,en:nut-butters,en:peanut-butters
+				labels_tags : nan
+				ingredients_text : dry roast pnuts.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : -1.0
+				nutriscore_grade : a
+				nova_group : 1.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Legumes
+				ecoscore_score_fr : 37.0
+				ecoscore_grade_fr : d
+				main_category : en:peanut-butters
+				energy-kcal_100g : 570.0
+				energy_100g : 2385.0
+				fat_100g : 48.0
+				saturated-fat_100g : 7.5
+				carbohydrates_100g : 21.0
+				sugars_100g : 3.0
+				fiber_100g : 9.4
+				proteins_100g : 21.0
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['dry', 'roast', 'pnuts']
+		Max = 610.1842
+			Crunchy Nutty Peanut Butter
+				Unnamed: 0 : 48997
+				product_name : Crunchy Nutty Peanut Butter
+				quantity : 12 oz
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:legumes-and-their-products,en:spreads,en:nuts-and-their-products,en:plant-based-spreads,en:oilseed-purees,en:legume-butters,en:nut-butters,en:peanut-butters
+				labels_tags : nan
+				ingredients_text : roast _pnuts_, sugar, salt, fully hydrogat _soya_ oil.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 25.0
+				nutriscore_grade : e
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Legumes
+				ecoscore_score_fr : 42.0
+				ecoscore_grade_fr : c
+				main_category : en:peanut-butters
+				energy-kcal_100g : 651.0
+				energy_100g : 2724.0
+				fat_100g : 53.45
+				saturated-fat_100g : 11.47
+				carbohydrates_100g : 18.23
+				sugars_100g : 9.46
+				fiber_100g : 4.75
+				proteins_100g : 24.47
+				salt_100g : 610.1842
+				sodium_100g : 244.07368
+				language : en
+				ingredients_text_tokens : ['roast', 'pnuts', 'sugar', 'salt', 'fully', 'hydrogat', 'soya', 'oil']
+----------
+	Label 3
+		Median = 0.6925
+		Min = 0.0
+			Jasmine rice
+				Unnamed: 0 : 9575
+				product_name : Jasmine rice
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:seeds,en:cereals-and-their-products,en:cereal-grains,en:rices
+				labels_tags : nan
+				ingredients_text : cook organic jasmine rice (organic jasmine rice, wat).
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 0.0
+				nutriscore_grade : b
+				nova_group : 1.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : 54.0
+				ecoscore_grade_fr : c
+				main_category : en:rices
+				energy-kcal_100g : 148.0
+				energy_100g : 619.0
+				fat_100g : 0.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 32.39
+				sugars_100g : 0.0
+				fiber_100g : 0.7
+				proteins_100g : 2.82
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['cook', 'organic', 'jasmine', 'rice', 'organic', 'jasmine', 'rice', 'wat']
+		Max = 1139.1519
+			Racconto, small potato dumplings, potato gnocchetti
+				Unnamed: 0 : 26412
+				product_name : Racconto, small potato dumplings, potato gnocchetti
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products,en:pastas
+				labels_tags : nan
+				ingredients_text : 70% potato pur (ronstitut potato with wat), wht flour, potato starch, cooking salt, potassium sorte, lactic acid, aromatic h, spic, dust with rice flour.
+				additives_n : 2.0
+				additives_tags : en:e202,en:e270
+				nutriscore_score : 12.0
+				nutriscore_grade : d
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:pastas
+				energy-kcal_100g : 164.0
+				energy_100g : 686.0
+				fat_100g : 0.61
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 36.36
+				sugars_100g : 8.48
+				fiber_100g : 1.2
+				proteins_100g : 4.85
+				salt_100g : 1139.1519
+				sodium_100g : 455.66076
+				language : en
+				ingredients_text_tokens : ['%', 'potato', 'pur', 'ronstitut', 'potato', 'with', 'wat', 'wht', 'flour', 'potato', 'starch', 'cooking', 'salt', 'potassium', 'sorte', 'lactic', 'acid', 'aromatic', 'h', 'spic', 'dust', 'with', 'rice', 'flour']
+----------
+	Label 4
+		Median = 0.10715
+		Min = 0.0
+			Success 10 Minute: Precooked boil-in-bag whole grain brown rice
+				Unnamed: 0 : 32377
+				product_name : Success 10 Minute: Precooked boil-in-bag whole grain brown rice
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:seeds,en:cereals-and-their-products,en:cereal-grains,en:rices
+				labels_tags : nan
+				ingredients_text : prook paril whole grain own rice (long grain). ctifi glut fr riviana foods inc., houston, tx 77019 u.s.a. o 2017 riviana foods inc. ®succs and riviana are rist tradarks of riviana foods inc. grown in the usa riviana rice
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 2.0
+				nutriscore_grade : b
+				nova_group : nan
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : 54.0
+				ecoscore_grade_fr : c
+				main_category : en:rices
+				energy-kcal_100g : 1506.0
+				energy_100g : 6301.0
+				fat_100g : 3.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 78.0
+				sugars_100g : 0.0
+				fiber_100g : 4.0
+				proteins_100g : 8.0
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['prook', 'paril', 'whole', 'grain', 'own', 'rice', 'long', 'grain', 'ctifi', 'glut', 'fr', 'riviana', 'foods', 'inc', 'houston', 'tx', 'u', 's', 'a', 'o', 'riviana', 'foods', 'inc', 'succs', 'and', 'riviana', 'are', 'rist', 'tradarks', 'of', 'riviana', 'foods', 'inc', 'grown', 'in', 'the', 'usa', 'riviana', 'rice']
+		Max = 5.5
+			Creamy Peanut Butter
+				Unnamed: 0 : 2696
+				product_name : Creamy Peanut Butter
+				quantity : nan
+				categories_tags : nan
+				labels_tags : nan
+				ingredients_text : roast pnuts, sugar, hydrogat vae oil, (cottonsd, soyan and rapd oil) to prt saration, salt.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : nan
+				nutriscore_grade : nan
+				nova_group : 4.0
+				pnns_groups_1 : unknown
+				pnns_groups_2 : unknown
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : nan
+				energy-kcal_100g : 594.0
+				energy_100g : 2485.0
+				fat_100g : 50.0
+				saturated-fat_100g : 9.38
+				carbohydrates_100g : 18.75
+				sugars_100g : 9.38
+				fiber_100g : 6.2
+				proteins_100g : 21.88
+				salt_100g : 1.19126
+				sodium_100g : 0.476504
+				language : en
+				ingredients_text_tokens : ['roast', 'pnuts', 'sugar', 'hydrogat', 'vae', 'oil', 'cottonsd', 'soyan', 'and', 'rapd', 'oil', 'to', 'prt', 'saration', 'salt']
+----------
+-------------------------------------------
+sodium_100g
+	Label 0
+		Median = 0.024
+		Min = 0.0
+			Creamy wheat cereal
+				Unnamed: 0 : 1444
+				product_name : Creamy wheat cereal
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products
+				labels_tags : nan
+				ingredients_text : wht.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : -3.0
+				nutriscore_grade : a
+				nova_group : 1.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:cereals-and-their-products
+				energy-kcal_100g : 360.0
+				energy_100g : 1506.0
+				fat_100g : 0.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 78.0
+				sugars_100g : 0.0
+				fiber_100g : 2.0
+				proteins_100g : 12.0
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['wht']
+		Max = 36.28136
+			Classic pasta enriched tomato and spinach macaroni product, tri-color rotini
+				Unnamed: 0 : 19267
+				product_name : Classic pasta enriched tomato and spinach macaroni product, tri-color rotini
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products,en:pastas
+				labels_tags : nan
+				ingredients_text : durum wht solina, [rich with iron (frous sulfate) and b vitamins (niacin, thiamin mononitrate, riflavin, folic acid)], tomato solids, dri spinach.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 13.0
+				nutriscore_grade : d
+				nova_group : 1.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:pastas
+				energy-kcal_100g : 375.0
+				energy_100g : 1569.0
+				fat_100g : 1.79
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 75.0
+				sugars_100g : 3.57
+				fiber_100g : 1.8
+				proteins_100g : 12.5
+				salt_100g : 90.7034
+				sodium_100g : 36.28136
+				language : en
+				ingredients_text_tokens : ['durum', 'wht', 'solina', 'rich', 'with', 'iron', 'frous', 'sulfate', 'and', 'b', 'vitamins', 'niacin', 'thiamin', 'mononitrate', 'riflavin', 'folic', 'acid', 'tomato', 'solids', 'dri', 'spinach']
+----------
+	Label 1
+		Median = 0.452
+		Min = 0.0
+			No salt added whole wheat bread
+				Unnamed: 0 : 41443
+				product_name : No salt added whole wheat bread
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads,en:white-breads,en:wheat-breads
+				labels_tags : nan
+				ingredients_text : whole wht flour, wat, wht glut, sugar, contains 2% or ls of the following: soyan and/ or canola oil, yst, molass, dough conditions (hoxylat mono - and diglycid, mono - and diglycid, monoglycid, ascorc acid, zym), malt rl flour, calcium propionate (prvative), ammonium sulfate, soy lithin, vinar.
+				additives_n : 5.0
+				additives_tags : en:e282,en:e300,en:e322,en:e322i,en:e471,en:e517
+				nutriscore_score : -7.0
+				nutriscore_grade : a
+				nova_group : 4.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:wheat-breads
+				energy-kcal_100g : 250.0
+				energy_100g : 1046.0
+				fat_100g : 3.57
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 42.86
+				sugars_100g : 3.57
+				fiber_100g : 7.1
+				proteins_100g : 10.71
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['whole', 'wht', 'flour', 'wat', 'wht', 'glut', 'sugar', 'contains', '%', 'or', 'ls', 'of', 'the', 'following', 'soyan', 'and', 'or', 'canola', 'oil', 'yst', 'molass', 'dough', 'conditions', 'hoxylat', 'mono', '-', 'and', 'diglycid', 'mono', '-', 'and', 'diglycid', 'monoglycid', 'ascorc', 'acid', 'zym', 'malt', 'rl', 'flour', 'calcium', 'propionate', 'prvative', 'ammonium', 'sulfate', 'soy', 'lithin', 'vinar']
+		Max = 415.0
+			White Bread
+				Unnamed: 0 : 19224
+				product_name : White Bread
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:breads,en:white-breads
+				labels_tags : nan
+				ingredients_text : wht flour, malt rl flour, wat, salt, yst
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 1.0
+				nutriscore_grade : b
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Bread
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:white-breads
+				energy-kcal_100g : 220.0
+				energy_100g : 920.0
+				fat_100g : 0.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 43.9
+				sugars_100g : 0.0
+				fiber_100g : 2.4
+				proteins_100g : 7.32
+				salt_100g : 1.1575
+				sodium_100g : 0.463
+				language : en
+				ingredients_text_tokens : ['wht', 'flour', 'malt', 'rl', 'flour', 'wat', 'salt', 'yst']
+----------
+	Label 2
+		Median = 0.316
+		Min = 0.0
+			Peanut Butter
+				Unnamed: 0 : 1831
+				product_name : Peanut Butter
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:legumes-and-their-products,en:spreads,en:nuts-and-their-products,en:plant-based-spreads,en:oilseed-purees,en:legume-butters,en:nut-butters,en:peanut-butters
+				labels_tags : nan
+				ingredients_text : dry roast pnuts.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : -1.0
+				nutriscore_grade : a
+				nova_group : 1.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Legumes
+				ecoscore_score_fr : 37.0
+				ecoscore_grade_fr : d
+				main_category : en:peanut-butters
+				energy-kcal_100g : 570.0
+				energy_100g : 2385.0
+				fat_100g : 48.0
+				saturated-fat_100g : 7.5
+				carbohydrates_100g : 21.0
+				sugars_100g : 3.0
+				fiber_100g : 9.4
+				proteins_100g : 21.0
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['dry', 'roast', 'pnuts']
+		Max = 244.07368
+			Crunchy Nutty Peanut Butter
+				Unnamed: 0 : 48997
+				product_name : Crunchy Nutty Peanut Butter
+				quantity : 12 oz
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:legumes-and-their-products,en:spreads,en:nuts-and-their-products,en:plant-based-spreads,en:oilseed-purees,en:legume-butters,en:nut-butters,en:peanut-butters
+				labels_tags : nan
+				ingredients_text : roast _pnuts_, sugar, salt, fully hydrogat _soya_ oil.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 25.0
+				nutriscore_grade : e
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Legumes
+				ecoscore_score_fr : 42.0
+				ecoscore_grade_fr : c
+				main_category : en:peanut-butters
+				energy-kcal_100g : 651.0
+				energy_100g : 2724.0
+				fat_100g : 53.45
+				saturated-fat_100g : 11.47
+				carbohydrates_100g : 18.23
+				sugars_100g : 9.46
+				fiber_100g : 4.75
+				proteins_100g : 24.47
+				salt_100g : 610.1842
+				sodium_100g : 244.07368
+				language : en
+				ingredients_text_tokens : ['roast', 'pnuts', 'sugar', 'salt', 'fully', 'hydrogat', 'soya', 'oil']
+----------
+	Label 3
+		Median = 0.277
+		Min = 0.0
+			Jasmine rice
+				Unnamed: 0 : 9575
+				product_name : Jasmine rice
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:seeds,en:cereals-and-their-products,en:cereal-grains,en:rices
+				labels_tags : nan
+				ingredients_text : cook organic jasmine rice (organic jasmine rice, wat).
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 0.0
+				nutriscore_grade : b
+				nova_group : 1.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : 54.0
+				ecoscore_grade_fr : c
+				main_category : en:rices
+				energy-kcal_100g : 148.0
+				energy_100g : 619.0
+				fat_100g : 0.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 32.39
+				sugars_100g : 0.0
+				fiber_100g : 0.7
+				proteins_100g : 2.82
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['cook', 'organic', 'jasmine', 'rice', 'organic', 'jasmine', 'rice', 'wat']
+		Max = 455.66076
+			Racconto, small potato dumplings, potato gnocchetti
+				Unnamed: 0 : 26412
+				product_name : Racconto, small potato dumplings, potato gnocchetti
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:cereals-and-their-products,en:pastas
+				labels_tags : nan
+				ingredients_text : 70% potato pur (ronstitut potato with wat), wht flour, potato starch, cooking salt, potassium sorte, lactic acid, aromatic h, spic, dust with rice flour.
+				additives_n : 2.0
+				additives_tags : en:e202,en:e270
+				nutriscore_score : 12.0
+				nutriscore_grade : d
+				nova_group : 3.0
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : en:pastas
+				energy-kcal_100g : 164.0
+				energy_100g : 686.0
+				fat_100g : 0.61
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 36.36
+				sugars_100g : 8.48
+				fiber_100g : 1.2
+				proteins_100g : 4.85
+				salt_100g : 1139.1519
+				sodium_100g : 455.66076
+				language : en
+				ingredients_text_tokens : ['%', 'potato', 'pur', 'ronstitut', 'potato', 'with', 'wat', 'wht', 'flour', 'potato', 'starch', 'cooking', 'salt', 'potassium', 'sorte', 'lactic', 'acid', 'aromatic', 'h', 'spic', 'dust', 'with', 'rice', 'flour']
+----------
+	Label 4
+		Median = 0.042859999999999995
+		Min = 0.0
+			Success 10 Minute: Precooked boil-in-bag whole grain brown rice
+				Unnamed: 0 : 32377
+				product_name : Success 10 Minute: Precooked boil-in-bag whole grain brown rice
+				quantity : nan
+				categories_tags : en:plant-based-foods-and-beverages,en:plant-based-foods,en:cereals-and-potatoes,en:seeds,en:cereals-and-their-products,en:cereal-grains,en:rices
+				labels_tags : nan
+				ingredients_text : prook paril whole grain own rice (long grain). ctifi glut fr riviana foods inc., houston, tx 77019 u.s.a. o 2017 riviana foods inc. ®succs and riviana are rist tradarks of riviana foods inc. grown in the usa riviana rice
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : 2.0
+				nutriscore_grade : b
+				nova_group : nan
+				pnns_groups_1 : Cereals and potatoes
+				pnns_groups_2 : Cereals
+				ecoscore_score_fr : 54.0
+				ecoscore_grade_fr : c
+				main_category : en:rices
+				energy-kcal_100g : 1506.0
+				energy_100g : 6301.0
+				fat_100g : 3.0
+				saturated-fat_100g : 0.0
+				carbohydrates_100g : 78.0
+				sugars_100g : 0.0
+				fiber_100g : 4.0
+				proteins_100g : 8.0
+				salt_100g : 0.0
+				sodium_100g : 0.0
+				language : en
+				ingredients_text_tokens : ['prook', 'paril', 'whole', 'grain', 'own', 'rice', 'long', 'grain', 'ctifi', 'glut', 'fr', 'riviana', 'foods', 'inc', 'houston', 'tx', 'u', 's', 'a', 'o', 'riviana', 'foods', 'inc', 'succs', 'and', 'riviana', 'are', 'rist', 'tradarks', 'of', 'riviana', 'foods', 'inc', 'grown', 'in', 'the', 'usa', 'riviana', 'rice']
+		Max = 2.2
+			Creamy Peanut Butter
+				Unnamed: 0 : 2696
+				product_name : Creamy Peanut Butter
+				quantity : nan
+				categories_tags : nan
+				labels_tags : nan
+				ingredients_text : roast pnuts, sugar, hydrogat vae oil, (cottonsd, soyan and rapd oil) to prt saration, salt.
+				additives_n : 0.0
+				additives_tags : nan
+				nutriscore_score : nan
+				nutriscore_grade : nan
+				nova_group : 4.0
+				pnns_groups_1 : unknown
+				pnns_groups_2 : unknown
+				ecoscore_score_fr : nan
+				ecoscore_grade_fr : nan
+				main_category : nan
+				energy-kcal_100g : 594.0
+				energy_100g : 2485.0
+				fat_100g : 50.0
+				saturated-fat_100g : 9.38
+				carbohydrates_100g : 18.75
+				sugars_100g : 9.38
+				fiber_100g : 6.2
+				proteins_100g : 21.88
+				salt_100g : 1.19126
+				sodium_100g : 0.476504
+				language : en
+				ingredients_text_tokens : ['roast', 'pnuts', 'sugar', 'hydrogat', 'vae', 'oil', 'cottonsd', 'soyan', 'and', 'rapd', 'oil', 'to', 'prt', 'saration', 'salt']
