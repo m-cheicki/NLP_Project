@@ -12,6 +12,8 @@ Mainly, for a product, we can find the list of ingredients, nutrition facts and 
 - Did you find some mistakes ? 
 - How did you manage them ? 
 
+Our code implementation for this question are in the <a href="./CELIE_CHEICKISMAIL_OpenFoodFacts_part1.ipynb">CELIE_CHEICKISMAIL_OpenFoodFacts_part1.ipynb</a> notebook in this repository. 
+
 First, this dataset is composed of almost 2 millions of lines and 187 columns. 
 Here is the <a href="https://static.openfoodfacts.org/data/data-fields.txt">documentation</a> of the dataset. <br/>
 
@@ -88,9 +90,201 @@ For this part, we have taken three different approaches :
 
 ##### NLTK corpus vocabulary
 
+NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries. 
+
+Observations :
+
+This method is quite simple to use. We retrieve words from the NLTK's corpora and we compare them to the words we have. But by doing so, we have got some unexpected behaviors : 
+- even though we put a condition saying that if the element we want to check is already in the vocabulary, you don't have to check the spelling (if the word exists, this word is already correctly spelled), sometimes it checks : `green ==> green`. Hopefully, it gives the same results which is nice. 
+- it doesn't recognise some words like `vinegar`. In our tests, we had `vingar ==> dingar` which means _The giant honeybee, Apis dorsata, native to South and South-East Asia, which is noted for aggressive defence of its nests, which typically hang from trees, cliffs, and buildings._ It can be understandable as there is only one letter difference `v ==> d`
+
+There are also other issues but these are because of the dataset, for instance : 
+- `containslessthanof` should be `contains less than of` 
+- Some words are correctly spelled but the correction is not pertinent : `all-purpose ==> apurpose`, `hours ==> cours`
+- Even though we were very specific by filtering by language, keeping only those in English, some French words appeared and the vocabulary couldn't check the spelling correctly : `farine ==> parine`
+
+
+Although, there are issues, some words were correctly spelled like `monfat ==> nonfat`, `northn ==> north`... 
+
+```
+vanillan ==> vanilla
+monfat ==> nonfat
+lychs ==> lycus
+trate ==> irate
+carrangnan ==> caranna
+lutr ==> lut
+varying ==> warding
+exct ==> exact
+diglcid ==> diacid
+farine ==> parine
+un-ch ==> nunch
+hucklry ==> hackery
+aglycid ==> glycid
+ard ==> dard
+salisry ==> salish
+dipotass ==> potass
+knal ==> knap
+goats' ==> goaty
+butyloctyl ==> tylostyle
+ocesses ==> acestes
+hydroylz ==> hydrol
+aflavors ==> flavory
+dipot ==> divot
+mst ==> tst
+northn ==> north
+containslessthanof ==> curtainless
+vingar ==> dingar
+aminos ==> minos
+...
+starcn ==> starch
+isugar ==> sugar
+cocoapowd ==> cocowood
+ithout ==> without
+phophate ==> phosphate
+```
+
+We couldn't run this method longer, it takes too much time to process. And the results were not as good as wanted.
+
 ##### SpellChecker
+
+Pure Python Spell Checking based on Peter Norvig’s blog post on setting up a simple spell checking algorithm.
+
+It uses a Levenshtein Distance algorithm to find permutations within an edit distance of 2 from the original word. It then compares all permutations (insertions, deletions, replacements, and transpositions) to known words in a word frequency list. Those words that are found more often in the frequency list are more likely the correct results.
+
+Observations :
+
+This method is as easy to use as the first one. 
+First, we check if the word is misspelled. If it is, we use the correction function that proposes multiple choices ordered by descending probabilities. For our tests, we have taken the first choice as it is the highest probability to be the correct spelling we want. 
+
+As expected, we found some issues/incoherence due to the dataset: 
+- `exct ==> exact` instead of `extract`  
+- `farine ==> marine` from a french word
+
+And sometimes, it says that the initial word is misspelled although it is not : `dipotass ==> dipotass`, `carrangnan ==> carrangnan`. It is not problematic but it takes some additional process time. 
+
+But globally, it does pretty well its job : 
+```
+vanillan ==> vanilla
+monfat ==> nonfat
+lychs ==> lochs
+trate ==> trade
+carrangnan ==> carrangnan
+lutr ==> lute
+exct ==> exact
+diglcid ==> diploid
+farine ==> marine
+un-ch ==> bunch
+hucklry ==> hickory
+aglycid ==> aglycid
+salisry ==> satisfy
+dipotass ==> dipotass
+knal ==> anal
+goats' ==> goats
+butyloctyl ==> butyloctyl
+ocesses ==> dresses
+hydroylz ==> hydroxyl
+aflavors ==> flavors
+dipot ==> depot
+mst ==> must
+northn ==> north
+containslessthanof ==> containslessthanof
+vingar ==> vinegar
+aminos ==> amino
+lgian ==> lian
+spaning ==> sparing
+comtry ==> country
+swai ==> swap
+frk ==> fry
+uals ==> pals
+stl-cut ==> stl-cut
+zn ==> in
+onctrate ==> nitrate
+granulat ==> granular
+arul ==> aru
+acontains ==> contains
+ngre ==> ogre
+amountisving ==> amountisving
+jarlsrg ==> jarlsrg
+isotyrate ==> isotyrate
+lithin-anulsifi ==> lithin-anulsifi
+sorae ==> sore
+cocao ==> cocoa
+cholula ==> cholla
+lactlate ==> lactate
+rirose ==> hirose
+xanthai ==> bantha
+sodiumphosphat ==> sodiumphosphat
+alumina ==> alumna
+anch ==> inch
+monocalcium ==> monocalcium
+convtiona ==> convtiona
+currart ==> currant
+hci ==> hi
+cormn ==> corn
+gattigte ==> gattigte
+sike ==> like
+cantre ==> centre
+ouality ==> quality
+powd ==> pod
+lilhin ==> within
+thc-arm ==> thc-arm
+goonlijk ==> goonlijk
+ylowfin ==> yellowfin
+suf ==> sun
+hagisutiyfat ==> hagisutiyfat
+xanthang ==> anthing
+canfeine ==> caffeine
+uil ==> oil
+chflour ==> colour
+corn-ack ==> corn-ack
+cyclohasiloxane ==> cyclohasiloxane
+spr ==> sir
+sning ==> sing
+agt ==> at
+...
+```
+
+About the process time, this method is way faster than the first one. Also more accurate, we can say that this method better than the first one. 
 
 ##### Manual approach
 
-Our code implementation for this question are in the **CELIE_CHEICKISMAIL_OpenFoodFacts_part1.ipynb** notebook in this repository. 
+For this approach, we have decided to correct misspelled word using word frequency. The more the word is present the more it has to be the correct spelling. 
+
+For instance : 
+
+```
+'alchol': 1,
+...
+'alcohol': 448,
+'alcoholic': 6,
+```
+We can correct `alchol` and `alcoholic` by `alcohol`. 
+
+Another example is : 
+
+```
+'annaito': 1,
+'annat': 2,
+'annato': 20,
+'annatt': 1,
+'annatto': 2626,
+```
+
+We can correct all these words by `annatto`.
+
+Observations :
+
+This method is quite simple to put in place : you put all word in a lit that you sort by alphabetical order and then you count all occurences. But it has its limits. To easily compare and have better results, misspelled letter should be in the end of the word. For example, if we want to correct `acontains` by `contains` we can't as `a` and `c` are not the same letter. The task becomes too fastidious as the dataset is very big. 
+
+##### To go further 
+
+There are some steps that we haven't tried but we could have : 
+
+- Lemmatization : consists in finding the root of inflected verbs and reducing plural and/or feminine words to the masculine singular form.
+- Stemming : consists in keeping only the root of the word
+
+
+We have decided to test stemming. By doing so, we can regroup words by their roots and then correct their spelling. For example, `alcohol` and `alcoholic` can be grouped in `alcohol`
+
+_Reminder:_ Our code implementation for this question are in the <a href="./CELIE_CHEICKISMAIL_OpenFoodFacts_part1.ipynb">CELIE_CHEICKISMAIL_OpenFoodFacts_part1.ipynb</a> notebook in this repository. 
 
