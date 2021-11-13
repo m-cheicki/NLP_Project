@@ -2,15 +2,33 @@
 
 ## Project 1 : OpenFoodFacts
 
-OpenFoodFacts can be considerate of a wikipedia for food !
+**OpenFoodFacts can be considerate of a wikipedia for food !
 The goal of OpenFoodFacts is to share with everyone a maximum of informations on food products.
 It contains more than 800000 products but maybe all products are not perfectly described...
-Mainly, for a product, we can find the list of ingredients, nutrition facts and food categories.
+Mainly, for a product, we can find the list of ingredients, nutrition facts and food categories.**
+
+### Project structure 
+
+- README.md : report
+- <a href="./openfoodfacts_qst1.py">openfoodfacts_qst1.py</a> : script to run the first question using `python openfoodfacts_qst1.py` in the terminal 
+- <a href="./CELIE_CHEICKISMAIL_OpenFoodFacts_part.ipynb">CELIE_CHEICKISMAIL_OpenFoodFacts_part1.ipynb</a> : for part 1
+- <a href="./CELIE_CHEICKISMAIL_OpenFoodFacts_part2.ipynb">CELIE_CHEICKISMAIL_OpenFoodFacts_part2.ipynb</a> : for part 2
+
+To run locally : be sure to have the dataset (4,5Go) on your folder : 
+```
+PATH = ./datasets/openfoodfacts.csv
+```
+
+Also, if you run the script, you have to split the dataset into samples (we did it into 40 samples but you can set your range in the script). Before running the script, please ensure that you have a folder named v2, like so (to save the cleaned dataset): 
+```
+./datasets/v2/
+```
+
+There is a great chance that the script doesn't work on your machine as it uses lots of resources. It did worked once or twice in ours but does not anymore so even if it works on your, maybe one of our processing step will stop it, as we couldn't test it in the whole dataset. (We have tested on partial dataset and seemed to work). 
 
 ### Define and clean the vocabulary of ingredients 
 
-- Did you find some mistakes ? 
-- How did you manage them ? 
+**Define and clean the vocabulary of ingredients, do you find some mistakes ? How do you manage them ? Propose solutions to manage/identify errors.**
 
 _Our code implementation for this question are in the <a href="./CELIE_CHEICKISMAIL_OpenFoodFacts_part1.ipynb">CELIE_CHEICKISMAIL_OpenFoodFacts_part1.ipynb</a> notebook in this repository._
 
@@ -297,7 +315,7 @@ _Reminder:_ Our code implementation for this question are in the <a href="./CELI
 
 Our code implementation for this question are in the <a href="./CELIE_CHEICKISMAIL_OpenFoodFacts_part1.ipynb">CELIE_CHEICKISMAIL_OpenFoodFacts_part1.ipynb</a> notebook in this repository. 
 
-Based on nutrition facts and/or food categories, propose clustering approaches and a visualisation of some categories of products. Find outliers (a product very different from others of the same group). It exists products very similars in terms of nutrition facts but very different in terms of categories or ingredients ?
+**Based on nutrition facts and/or food categories, propose clustering approaches and a visualisation of some categories of products. Find outliers (a product very different from others of the same group). It exists products very similars in terms of nutrition facts but very different in terms of categories or ingredients ?**
 
 #### Our approach 
 
@@ -350,7 +368,7 @@ We wanted to try other model like DBSCAN but the results weren't good enough to 
 
 #### To go further
 
-Another clustering approach that can be interesting is to find similarities and differences between ingredients and nutrifacts of all products and try to cluster them and see if we can determine categories ike `Beverages` or `Sugary snacks` for example. 
+Another clustering approach that can be interesting is to find similarities and differences between ingredients and nutrifacts of all products and try to cluster them and see if we can determine categories like `Beverages` or `Sugary snacks` for example. 
 
 #### Difficulties encountered
 
@@ -363,30 +381,60 @@ _Reminder:_ Our code implementation for this question are in the <a href="./CELI
 
 ### Enhance OpenFoodFacts
 
-Based on your expertize on this dataset, propose and describe a model (no code required) that
-would be interesting to enhance the OpenFoodFacts project.
+**Based on your expertize on this dataset, propose and describe a model (no code required) that would be interesting to enhance the OpenFoodFacts project.**
+
+To enhance OpenFoodFacts we can propose these approaches, due the difficulties encountered. 
+
+#### The model itself 
+
+The OpenFoodFacts database contains columns that are not filled or with very few information that is usually not interesting like `abbreviated_product_name`, `generic_name`, `cities` ... 
+
+Also, some columns have redundant information like ``categories``, ``categories_tags``, ``catgories_en`` / ``countries``, ``countries_tags``, ``countries_en``, etc. 
+
+It would be interesting to have less columns but with information without redundance. 
+
+#### Encoding
+
+As described above in the first part, we face encoding errors. To ensure the encoding is the same in all CSV, it would be great to insert new entries with the correct encoding. 
+
+#### Unilingual
+
+During our study we had to keep only those in English to have an homogeneous dataset and have better results espacially for word spelling mistakes. As it is a worldwide database, it could be interesting to have a translation of the product/ingredients in English, in order to have an uniligual information of the food diversity across the world. 
+
+#### Limit duplicates
+
+Make sure that a product does appear more than once in the dataset, by indexing code and product name for example. 
+
+#### Control entered information 
+
+##### Barcode
+
+The barcode can give lots of interesting information like the country from where it comes from, the manufacturer number, the item number. 
+We can use barcode to fill the country column for instance. 
+
+Useful links : 
+- (en) http://www.computalabel.com/aboutupc.htm
+- (en) http://www.computalabel.com/aboutean.htm
+- (en) http://www.computalabel.com/about128.htm
+- (fr) https://www.bioalaune.com/fr/actualite-bio/36197/comment-dechiffrer-code-barres-etiquettes 
+
+##### Nutrition facts
+
+As we have seen above, some values didn't make any sense. This could be limited by the form when you try to insert a new product. For 100g of product, you will not be able to put 500g of sugar, or put higher quantity of sugar than carbohydrates. 
+
+Also, as it is a mandatory information on every food packages, making them necessary permits to have better knowledge about the product. 
+
+##### Ingredients
+
+Limit special characters. URL should not be able to be put in this field. 
+Also, to avoid things like `pls look at pic`, it would be great to have a system that verify if the input is really ingredients and not comments like this. 
+
+#### Ingredients and Nutrition facts
+
+If the user decide to put an image of the list of ingredients and the nutrition facts table, it would be a good idea to put some computer vision with convolutional neural networks (CV with CNN) in order to fill the ingredients and the nutrition facts field with less effort and probably with less mistakes. 
+Of course, to do so, the image has to be readable and the user can correct some mistakes. By doing so, we limit weird inputs on those fields. 
 
 
+#### Unlinked products 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+It would be nice to delete rows were the product doesn't exists anymore. Links returns empty results which is not a good user experience and can be difficult to find why a product is problematic if it doesn't exist anymore. 
