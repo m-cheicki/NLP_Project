@@ -1,3 +1,8 @@
+11/2021 | ESILV A5 - DIA 3
+CELIE Kévin - CHEICK ISMAIL Mariyam
+
+Link to GitHub : https://github.com/m-cheicki/NLP_Project
+
 # Advanced Machine Learning for NLP and Text Processing
 
 ## Project 1 : OpenFoodFacts
