@@ -1,4 +1,4 @@
-11/2021 | ESILV A5 - DIA 3
+11/2021 | ESILV A5 - DIA 3 <br/>
 CELIE Kévin - CHEICK ISMAIL Mariyam
 
 Link to GitHub : https://github.com/m-cheicki/NLP_Project
@@ -16,7 +16,7 @@ Mainly, for a product, we can find the list of ingredients, nutrition facts and 
 
 - README.md : report
 - <a href="./openfoodfacts_qst1.py">openfoodfacts_qst1.py</a> : script to run the first question using `python openfoodfacts_qst1.py` in the terminal 
-- <a href="./CELIE_CHEICKISMAIL_OpenFoodFacts_part.ipynb">CELIE_CHEICKISMAIL_OpenFoodFacts_part1.ipynb</a> : for part 1
+- <a href="./CELIE_CHEICKISMAIL_OpenFoodFacts_part1.ipynb">CELIE_CHEICKISMAIL_OpenFoodFacts_part1.ipynb</a> : for part 1
 - <a href="./CELIE_CHEICKISMAIL_OpenFoodFacts_part2.ipynb">CELIE_CHEICKISMAIL_OpenFoodFacts_part2.ipynb</a> : for part 2
 
 To run locally : be sure to have the dataset (4,5Go) on your folder : 
