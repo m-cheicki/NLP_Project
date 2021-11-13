@@ -12,7 +12,7 @@ Mainly, for a product, we can find the list of ingredients, nutrition facts and 
 - Did you find some mistakes ? 
 - How did you manage them ? 
 
-Our code implementation for this question are in the <a href="./CELIE_CHEICKISMAIL_OpenFoodFacts_part1.ipynb">CELIE_CHEICKISMAIL_OpenFoodFacts_part1.ipynb</a> notebook in this repository. 
+_Our code implementation for this question are in the <a href="./CELIE_CHEICKISMAIL_OpenFoodFacts_part1.ipynb">CELIE_CHEICKISMAIL_OpenFoodFacts_part1.ipynb</a> notebook in this repository._
 
 First, this dataset is composed of almost 2 millions of lines and 187 columns. 
 Here is the <a href="https://static.openfoodfacts.org/data/data-fields.txt">documentation</a> of the dataset. <br/>
@@ -41,18 +41,22 @@ In the meantime, we also wanted columns to be mandatory :
 
 These columns represent : 
 - Product name
-- Food Categories and Main categories
 - List of ingredients
-- Food Additves
+- Food Additives
 - Nutriscore (score and grade)
 - Nova group
-- PNNS groups (large and sub-categories)
+- PNNS groups (large and sub-categories), Food Categories and Main categories
 - Nutrition Facts (the most common in our packages, at least)
 
 After deleting columns, we wanted to explore deeper our dataset and we have found out that some encoding issues were present. To correct them, we have replaced manually some problematic characters. <br/>
 During our tests, we have checked the encoding row per row of the dataset and we found that we had `UTF-8` as mentionned in the docs but also `latin1`, `ascii`, `iso-8859-1`, `cp1252`... which can explain weird and special characters. 
 
 We have also seen that in the ingredient list, some information contains quantities, percentages or additves (and others digit information) which was problematic for the next steps, so we have deleted them at the same time. By doing so, we could say that there is loss of information but additives have been drawn up in the `additives_tags` column, some quantities (grams and percentages) are sometimes mentionned in the corresponding column (+ we will see that we are not going to use them as we have nutrition facts for 100g). 
+
+**TODO:** During the next steps we found some other things that needs to be cleaned: 
+- Some duplicates are present. We have tried to drop them but it didn't work well for the moment. 
+- Some people put incoherent values for nutrition facts : we have a temporary fix for it but it is not ideal. 
+- Some ingredients are not ingredients : URL/comments (`'pls look at pic'`) 
 
 #### Detect languages
 
@@ -71,7 +75,7 @@ For the further steps, we have taken two approaches :
 These two approaches have their own pros and cons : 
 - First approach : 
     - Main pro : unilingual (English) and its vocabulary/dictionnaries are well developped
-    - Main con : this means a big loss of our dataset as only 10% of the dataset is in English
+    - Main con : this means a big loss of our dataset as only 15% of the dataset is in English
 - Second approach : 
     - Main pro : unilingual and without loss of many entries of our dataset
     - Main cons : 
@@ -80,6 +84,7 @@ These two approaches have their own pros and cons :
         - Time of processing (tried in a little sample, by calculus we found that we needed almost 10 days non-stop to translate every row, which we can't afford to do)
 
 In our case, we decided to go for the first option : keep only those in English. 
+_The code for the translate part is in comment._
 
 #### Handling mistakes
 
@@ -274,7 +279,7 @@ We can correct all these words by `annatto`.
 
 Observations :
 
-This method is quite simple to put in place : you put all word in a lit that you sort by alphabetical order and then you count all occurences. But it has its limits. To easily compare and have better results, misspelled letter should be in the end of the word. For example, if we want to correct `acontains` by `contains` we can't as `a` and `c` are not the same letter. The task becomes too fastidious as the dataset is very big. 
+This method is quite simple to put in place : you put all word in a lit that you sort by alphabetical order and then you count all occurences. But it has its limits. To easily compare and have better results, misspelled letter should be in the end of the word. For example, if we want to correct `acontains` by `contains` we can't as `a` and `c` are not the same letter. The task becomes too fastidious as the dataset is very big. Or, we have to calculate distance (Euclidian, Levenshtein, Jaccard, Longest Common Substring or Hamming for example) word by word and take the minimum distance and replace it by the word that is more present. We just have to take in account that some words can be present only once and cannot be calculated/spelled correctly if it is not already. 
 
 ##### To go further 
 
@@ -287,4 +292,101 @@ There are some steps that we haven't tried but we could have :
 We have decided to test stemming. By doing so, we can regroup words by their roots and then correct their spelling. For example, `alcohol` and `alcoholic` can be grouped in `alcohol`
 
 _Reminder:_ Our code implementation for this question are in the <a href="./CELIE_CHEICKISMAIL_OpenFoodFacts_part1.ipynb">CELIE_CHEICKISMAIL_OpenFoodFacts_part1.ipynb</a> notebook in this repository. 
+
+### Clustering approaches
+
+Our code implementation for this question are in the <a href="./CELIE_CHEICKISMAIL_OpenFoodFacts_part1.ipynb">CELIE_CHEICKISMAIL_OpenFoodFacts_part1.ipynb</a> notebook in this repository. 
+
+Based on nutrition facts and/or food categories, propose clustering approaches and a visualisation of some categories of products. Find outliers (a product very different from others of the same group). It exists products very similars in terms of nutrition facts but very different in terms of categories or ingredients ?
+
+#### Our approach 
+
+The approach we had here is to find similarities and differences between products from a same category. The question we asked ourselves was : **Is there common ingredients and nutritions facts that explains that category?**
+
+To do so, we have selected our columns (nutrition facts): 
+
+```
+"energy-kcal_100g",
+"energy_100g",
+"fat_100g",
+"saturated-fat_100g",
+"carbohydrates_100g",
+"sugars_100g",
+"fiber_100g",
+"proteins_100g",
+"salt_100g",
+"sodium_100g"
+```
+
+We have first started with `Cereals and potatoes` and we compared with `sugary snacks` (these are the two main categories of our dataset after cleaning). 
+
+##### Cereals and potatoes
+
+As we want a custering approach, we wanted to try a K-Means at first. 
+
+We have more than two dimensions and we want to study all our features together so we first did a PCA (Principal Component Analysis) in order to reduce our dimensions we a minimum loss of information. 
+
+Our PCA permit to have two dimensions with : 
+
+```
+Explained variation per principal component: [0.99633303 0.00126498]
+Cumulative variance explained by 2 principal components: 99.76%
+```
+
+We also fixed to have 5 clusters (at first it has determined 8 clusters but they were hard to interpret). We have found some common traits from products that are in the same cluster but sometimes these traits can be found in another cluster : some products have high energy and bad nutriscore and these products are in the same cluster ; some products have high energy and high sugar levels and are in the same cluster, but we can find products that fill conditions to enter in a specific cluster but it is in another one... (to compare we have taken to extremes of each cluster for each nutrifact)
+
+We have observed that ``energy`` was the column that permit to make clusters but the other columns were a little bit off, which was problematic. So we decided to apply log function on these values to reduce magnitude between different nutrifacts as we want them to be equally important. 
+
+By doing so, the results were not the same as the second try. Results are graphically more like what we have expected. But it is still hard to understand how the cluster are made altough we can see resemblance between nutrifacts on a same cluster. After looking at ingredients, it seems like there no similarities or are negligeable between ingredients and nutrifacts of a same cluster.  
+
+##### Sugary snacks
+
+We did the same step as explained in the `Cereals and potatoes` part. 
+Results were better but sometimes the same product is at the same time in two different clusters, which is impossible for K-Means in our case. So we trying another model with only 4 clusters instead of 5 could be interesting. 
+
+#### Another model 
+
+We wanted to try other model like DBSCAN but the results weren't good enough to be interpretable. 
+
+#### To go further
+
+Another clustering approach that can be interesting is to find similarities and differences between ingredients and nutrifacts of all products and try to cluster them and see if we can determine categories ike `Beverages` or `Sugary snacks` for example. 
+
+#### Difficulties encountered
+
+- Dataset cleaning is not totally complete, some values are too weird to be treated this way
+- Some values of the dataset are empty. This makes the analysis harder to interpret
+- We had tried several approach like finding the nutriscore / nutrigrade thanks to nutrifacts, clustering by categories in order to find similarities between products... but the results were as good as wanted
+- We have tried different algorithms with different parameters but they weren't interpretable. 
+
+_Reminder:_ Our code implementation for this question are in the <a href="./CELIE_CHEICKISMAIL_OpenFoodFacts_part2.ipynb">CELIE_CHEICKISMAIL_OpenFoodFacts_part2.ipynb</a> notebook in this repository. 
+
+### Enhance OpenFoodFacts
+
+Based on your expertize on this dataset, propose and describe a model (no code required) that
+would be interesting to enhance the OpenFoodFacts project.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
